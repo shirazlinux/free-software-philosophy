@@ -15,7 +15,7 @@ users and authors &mdash; the freedom to **use**, **study**, **improve**, and
 This website is a work in progress.
 {{< /tip >}}
 
-{{< button "learn/whatis" "What is free software?" >}}{{< button "learn" "Get started" >}}
+{{< button "learn" "What is free software?" >}}{{< button "learn/participate" "Get started" >}}
 {{< /column >}}
 
 {{< column >}}
