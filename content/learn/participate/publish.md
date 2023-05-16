@@ -9,9 +9,7 @@ Wonderful! Here are the steps:
 1. Write it!
 2. Choose a software license
 3. Publish your project
-4. Build a community*
-
-\* optional 😉
+4. Build a community (optional)
 
 ## Writing your software
 
