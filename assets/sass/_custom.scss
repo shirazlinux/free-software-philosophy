@@ -1,3 +1,11 @@
+.nav_brand {
+	z-index: 1;
+}
+
+.show .nav_body {
+	top: 2rem;
+}
+
 .nav_brand picture, .nav_brand img {
 	max-width: 22rem;
 }
