@@ -39,7 +39,7 @@ In free software lingo, this is often called the "non-discrimination" clause.
 
 The second freedom guarantees the right to **study** the program's behavior. You
 have a right to understand how the software you depend on works! In order to
-facilitate this, the *source code* of free software must be published. The
+facilitate this, the source code must be included with the software. The
 publishers of free software cannot obfuscate the source code, forbid reverse
 engineering, or otherwise prevent you from making use of it.
 
