@@ -10,10 +10,10 @@ with many different trade-offs to suit each software project's unique situation.
 ## How a free software license works
 
 A free software license grants the necessary rights, perhaps subject to
-some caveats (such as attribution requirements), to establish the four freedoms
-for recipients of the software. Any software license can be a free software
-license if it upholds the four freedoms, but in practice most projects pick from
-one of a few licenses established for general use.
+some caveats (e.g. attribution), to establish the four freedoms for recipients
+of the software. Any software license can be a free software license if it
+upholds the four freedoms, but in practice most projects pick from one of a few
+licenses established for general use.
 
 Comments on specific general-purpose software licenses and how to choose between
 them for your own projects are addressed in
@@ -81,35 +81,6 @@ Here's an example from the [MIT license]:
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 > SOFTWARE.
 
-### Use of trademarks and patents
-
-Software licenses generally deal with copyright-related rights, but commercial
-software publishers often hold other kinds of intellectual property, namely
-trademarks and patents. Free software licenses often incorporate clauses which
-address the relationship between the software's copyright grant and other <abbr
-title="Intellectual Property">IP</abbr>, for example agreeing that use of the
-software does not infringe on the copyright holder's patents, or forbidding the
-use of the copyright holder's trademarks.
-
-Here's an example from the [Apache 2.0 license]:
-
-> 3. **Grant of Patent License.** Subject to the terms and conditions of this
->    License, each Contributor hereby grants to You a perpetual, worldwide,
->    non-exclusive, no-charge, royalty-free, irrevocable (except as stated in
->    this section) patent license to make, have made, use, offer to sell, sell,
->    import, and otherwise transfer the Work, where such license applies only to
->    those patent claims licensable by such Contributor that are necessarily
->    infringed by their Contribution(s) alone or by combination of their
->    Contribution(s) with the Work to which such Contribution(s) was submitted.
->    If You institute patent litigation against any entity (including a
->    cross-claim or counterclaim in a lawsuit) alleging that the Work or a
->    Contribution incorporated within the Work constitutes direct or
->    contributory patent infringement, then any patent licenses granted to You
->    under this License for that Work shall terminate as of the date such
->    litigation is filed.
-
-[Apache 2.0 license]: https://www.apache.org/licenses/LICENSE-2.0.html
-
 ### Copyleft
 
 Some licenses don't just *permit* you to share your improvements, but *require*
@@ -146,3 +117,32 @@ subject to the license terms of both.
 Not all licenses have terms which are compatible with one another; in particular
 copyleft licenses tend to be less compatible with others. Software with
 incompatible licenses cannot be combined into one work.
+
+### Use of trademarks and patents
+
+Software licenses generally deal with copyright-related rights, but commercial
+software publishers often hold other kinds of intellectual property, namely
+trademarks and patents. Free software licenses often incorporate clauses which
+address the relationship between the software's copyright grant and other <abbr
+title="Intellectual Property">IP</abbr>, for example agreeing that use of the
+software does not infringe on the copyright holder's patents, or forbidding the
+use of the copyright holder's trademarks.
+
+Here's an example from the [Apache 2.0 license]:
+
+> 3. **Grant of Patent License.** Subject to the terms and conditions of this
+>    License, each Contributor hereby grants to You a perpetual, worldwide,
+>    non-exclusive, no-charge, royalty-free, irrevocable (except as stated in
+>    this section) patent license to make, have made, use, offer to sell, sell,
+>    import, and otherwise transfer the Work, where such license applies only to
+>    those patent claims licensable by such Contributor that are necessarily
+>    infringed by their Contribution(s) alone or by combination of their
+>    Contribution(s) with the Work to which such Contribution(s) was submitted.
+>    If You institute patent litigation against any entity (including a
+>    cross-claim or counterclaim in a lawsuit) alleging that the Work or a
+>    Contribution incorporated within the Work constitutes direct or
+>    contributory patent infringement, then any patent licenses granted to You
+>    under this License for that Work shall terminate as of the date such
+>    litigation is filed.
+
+[Apache 2.0 license]: https://www.apache.org/licenses/LICENSE-2.0.html
