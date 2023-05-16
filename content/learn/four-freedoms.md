@@ -55,6 +55,12 @@ publish it on your website, or bundle it with other software and share it as
 part of something bigger. You can also share your improvements to it -- then
 it's better for everyone!
 
+{{< tip >}}
+You can charge a fee to those you share the software with, for instance to cover
+the costs of bandwidth. Note however that the recipient is entitled to share it
+on themselves without paying back any royalties.
+{{< /tip >}}
+
 ## 3: Collaborate on the software
 
 The fourth freedom guarantees one additional right: the right to **collaborate**
