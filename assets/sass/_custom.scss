@@ -1,0 +1,25 @@
+.nav_brand picture, .nav_brand img {
+	max-width: 22rem;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a.button, nav a {
+	text-decoration: none;
+}
+
+b, strong {
+	font-weight: 700;
+}
+
+.page-home .content img {
+	border-radius: 1rem;
+}
+
+@media screen and (min-width: 557px) {
+	.button_grid {
+		max-width: 30rem;
+	}
+}

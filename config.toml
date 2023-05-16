@@ -1,0 +1,7 @@
+baseURL = 'https://writefreesoftware.org'
+languageCode = 'en-US'
+title = 'Write Free Software'
+theme = ["github.com/onweru/compose"]
+
+[outputs]
+  home = ["HTML", "RSS","JSON"]

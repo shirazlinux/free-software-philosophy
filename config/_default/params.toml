@@ -1,0 +1,29 @@
+uniqueHomePage = true
+docSections = ["learn"]
+
+blogDir = "blog"
+
+time_format_blog = "Monday, January 02, 2006"
+time_format_default = "January 2, 2006"
+enableDarkMode = true
+defaultLightingMode = "auto"
+
+codeMaxLines = 10
+
+showLineNumbers = false
+
+[search]
+on = false
+global = false
+[search.algolia]
+enable = false
+
+[logo]
+lightMode = "images/wfs-dark.svg"
+darkMode = "images/wfs-light.svg"
+
+[source]
+name = "SourceHut"
+iconLight = "images/sourcehut.svg"
+iconDark = "images/sourcehut-white.svg"
+url = "https://git.sr.ht/~sircmpwn/writefreesoftware.org"

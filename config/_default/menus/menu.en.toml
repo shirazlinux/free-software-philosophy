@@ -1,0 +1,9 @@
+[[main]]
+  name = "Learn"
+  weight = 2
+  url = "learn/"
+
+[[main]]
+  name = "Blog"
+  weight = 5
+  url = "blog/"

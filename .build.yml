@@ -1,0 +1,16 @@
+image: alpine/edge
+oauth: pages.sr.ht/PAGES:RW
+packages:
+- go
+- hugo
+- hut
+sources:
+- https://git.sr.ht/~sircmpwn/writefreesoftware.org
+tasks:
+- build: |
+    cd writefreesoftware.org
+    hugo
+    cd public
+    tar -czf ~/site.tar.gz *
+- publish: |
+    hut pages publish -d writefreesoftware.org site.tar.gz

@@ -1,0 +1,26 @@
++++
+title = "Write Free Software"
++++
+{{< block "grid-2" >}}
+{{< column >}}
+
+# We build software for everyone
+
+Free software is a global collaborative movement to build the world's best
+software in a manner that respects the essential rights and freedoms of its
+users and authors &mdash; the freedom to **use**, **study**, **improve**, and
+**share** your software.
+
+{{< tip "warning" >}}
+This website is a work in progress.
+{{< /tip >}}
+
+{{< button "learn/whatis" "What is free software?" >}}{{< button "learn" "Get started" >}}
+{{< /column >}}
+
+{{< column >}}
+![Picture of hackers at FOSDEM](/images/banner.jpg)
+<small>Photo by Justin Cormack, CC-BY-SA 2.0</small>
+{{< /column >}}
+
+{{< /block >}}
