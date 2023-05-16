@@ -35,6 +35,10 @@ b, strong {
 	font-weight: 700;
 }
 
+blockquote p {
+	font-style: normal;
+}
+
 ol li::marker {
 	font-family: sans-serif;
 }
