@@ -6,8 +6,8 @@ weight: 1
 Scores of free software projects are looking for help. No matter your area of
 expertise -- competence in any programming language, writing documentation,
 community management, marketing skills, design and art skills -- there's a
-project out there which could use your help. Look at the tools you use every day
--- chances are that many of them are already free software.
+project out there which could use your help. Look at the tools you use every
+day: chances are that many of them are already free software.
 
 Their communities are waiting to meet you! Find their chat rooms, internet
 forums, and other hang-outs and introduce yourself.
