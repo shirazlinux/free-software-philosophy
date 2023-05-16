@@ -1,5 +1,5 @@
 ---
-title: "Getting involved"
+title: Getting involved
 weight: 2
 ---
 
