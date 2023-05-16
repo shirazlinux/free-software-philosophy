@@ -33,7 +33,7 @@ is recommended for distributing fonts in a manner compatible with free software.
 
 ## Documentation
 
-Most projects don't require a special license for their documentation. However,
+Most projects don't use a special license for their documentation. However,
 the [GNU Free Documentation License][fdl] is occasionally used for this
 purpose.
 
