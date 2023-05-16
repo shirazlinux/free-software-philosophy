@@ -31,3 +31,36 @@ essential freedoms*:
 
 Software which upholds these freedoms is **free software**. Software which does
 not is **non-free**.
+
+{{< button "/learn/four-freedoms" "Next: The four freedoms" "next-button" >}}
+
+## What is "open source" software?
+
+**Open Source** is a movement similar to the Free Software movement. The
+movements differ mainly in their target audience: open source is more commercial
+in its focus, and free software is more about the users. Nevertheless, the two
+movements are closely related and often work together. Each movement provides a
+different view of software freedom, but in practice nearly all software which is
+considered free software is also considered open source and vice-versa. The Open
+Source definition and the four freedoms are compatible with one another.
+
+The two movements as a whole are often referred to as "free and open source
+software", or "FOSS".
+
+{{< tip >}}
+Generally speaking, all open source software is free software, and vice versa.
+{{< /tip >}}
+
+You can learn more about Open Source at
+[opensource.org](https://opensource.org/).
+
+## What is "source available" software?
+
+"Source available" software refers to any software for which the source code is
+available, but which does not uphold the four freedoms. It might limit
+commercial use, restrict redistribution, prevent the user from modifying the
+software, and so on. Source available software is non-free.
+
+{{< tip "warning" >}}
+All source available software is non-free.
+{{< /tip >}}

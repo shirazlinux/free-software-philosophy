@@ -1,4 +1,4 @@
 ---
 title: Free software licenses
-weight: -10
+weight: -9
 ---

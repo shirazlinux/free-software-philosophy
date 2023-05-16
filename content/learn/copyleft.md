@@ -1,4 +1,4 @@
 ---
 title: What is copyleft?
-weight: -10
+weight: -8
 ---

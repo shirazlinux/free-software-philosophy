@@ -4,6 +4,10 @@
 
 a {
 	text-decoration: underline;
+
+	&:hover {
+		text-decoration: none;
+	}
 }
 
 a.button, nav a, aside a {
@@ -21,5 +25,29 @@ b, strong {
 @media screen and (min-width: 557px) {
 	.button_grid {
 		max-width: 30rem;
+	}
+}
+
+.next-button {
+	padding: 0.5rem 1rem;
+	margin-bottom: 0.75rem;
+	border-radius: 0.25rem;
+	width: 16rem;
+	max-width: 40vw;
+	position: relative;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+
+	&::after {
+		background-image: var(--next-icon);
+		content: "";
+		margin-left: 0.67rem;
+		height: 0.8rem;
+		width: 0.8rem;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		transform-origin: 50% 50%;
 	}
 }
