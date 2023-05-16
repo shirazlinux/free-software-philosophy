@@ -18,6 +18,10 @@ b, strong {
 	font-weight: 700;
 }
 
+ol li::marker {
+	font-family: sans-serif;
+}
+
 .page-home .content img {
 	border-radius: 1rem;
 }
