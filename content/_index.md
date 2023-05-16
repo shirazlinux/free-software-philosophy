@@ -20,7 +20,7 @@ This website is a work in progress.
 
 {{< column >}}
 ![Picture of hackers at FOSDEM](/images/banner.jpg)
-<small>Photo by Justin Cormack, CC-BY-SA 2.0</small>
+<small>Photo by Flo Köhler, CC-BY 3.0</small>
 {{< /column >}}
 
 {{< /block >}}
