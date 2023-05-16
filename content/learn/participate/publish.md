@@ -1,5 +1,5 @@
 ---
-title: Publish free software
+title: Publishing free software
 weight: 2
 ---
 
