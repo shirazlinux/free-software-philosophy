@@ -4,6 +4,6 @@
   url = "learn/"
 
 [[main]]
-  name = "Blog"
+  name = "News"
   weight = 5
   url = "blog/"
