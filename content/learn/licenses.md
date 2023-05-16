@@ -123,10 +123,10 @@ incompatible licenses cannot be combined into one work.
 Software licenses generally deal with copyright-related rights, but commercial
 software publishers often hold other kinds of intellectual property, namely
 trademarks and patents. Free software licenses often incorporate clauses which
-address the relationship between the software's copyright grant and other <abbr
-title="Intellectual Property">IP</abbr>, for example agreeing that use of the
-software does not infringe on the copyright holder's patents, or forbidding the
-use of the copyright holder's trademarks.
+address the relationship between the software's copyright grant and other
+intellectual property, for example agreeing that use of the software does not
+infringe on the copyright holder's patents, or forbidding the use of the
+copyright holder's trademarks.
 
 Here's an example from the [Apache 2.0 license]:
 
