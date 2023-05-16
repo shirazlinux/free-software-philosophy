@@ -30,7 +30,7 @@ is the [REUSE specification][0].
 If you want to know more about how free software licenses work in detail, read
 on. Otherwise:
 
-{{< button "/learn/participate" "Next: Getting started" "next-button" >}}
+{{< button "/learn/participate" "Next: Getting involved" "next-button" >}}
 
 ## Common traits of free software licenses
 
