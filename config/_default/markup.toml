@@ -1,8 +1,6 @@
 [goldmark]
   [goldmark.renderer]
     unsafe = true
-  [goldmark.extensions]
-    typographer = false
 [highlight]
   codeFences = true
   guessSyntax = false
