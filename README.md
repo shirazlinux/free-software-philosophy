@@ -7,9 +7,8 @@ practice.
 ## Contributing
 
 Please contribute improvements via email to
-[sir@cmpwn.com](mailto:sir@cmpwn.com) using [git send-email][0].
-
-TODO: set up dedicated mailing list
+[the mailing list](https://lists.sr.ht/~sircmpwn/writefreesoftware.org) using
+[git send-email][0].
 
 [0]: https://git-send-email.io
 

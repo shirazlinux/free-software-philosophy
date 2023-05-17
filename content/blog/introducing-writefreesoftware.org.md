@@ -41,4 +41,4 @@ Future topics for the blog include:
 - The importance of copyleft in practice
 
 Want to help with these or any other ideas?
-[Consider writing for us!](https://git.sr.ht/~sircmpwn/writefreesoftware.org)
+[Consider writing for us!](https://sr.ht/~sircmpwn/writefreesoftware.org/)
