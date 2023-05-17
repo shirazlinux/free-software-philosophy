@@ -69,5 +69,3 @@ source code, and the people you share it with can study, improve, and share it
 right back with you. This is the foundation of the **Free Software Movement**: a
 global community of software enthusiasts sharing and improving software
 together.
-
-{{< button "/learn/licenses" "Next: Free software licenses" "next-button" >}}

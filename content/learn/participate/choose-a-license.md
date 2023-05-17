@@ -5,8 +5,10 @@ weight: 3
 
 Choosing a license is an important part of publishing your free software
 projects. There are many to choose from, and each has different trade-offs and
-implications for your project's future. It can be difficult to change the
-license later, so you should consider it carefully at the start.
+implications for your project's future. It can be difficult to [change the
+license later], so you should consider it carefully at the start.
+
+[change the license later]: /learn/participate/copyright-ownership/#changing-a-projects-license
 
 Here are a few widely used free software licenses we recommend, and why you
 might choose them.
