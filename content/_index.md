@@ -11,10 +11,6 @@ software in a manner that respects the essential rights and freedoms of its
 users and authors &mdash; the freedom to **use**, **study**, **improve**, and
 **share** your software.
 
-{{< tip "warning" >}}
-This website is a work in progress.
-{{< /tip >}}
-
 {{< button "learn" "What is free software?" >}}{{< button "learn/participate" "Get started" >}}
 {{< /column >}}
 
