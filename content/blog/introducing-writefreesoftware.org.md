@@ -1,6 +1,6 @@
 +++
 author = "Drew DeVault"
-title = "A comprehensive resource for joining the Free Software movement"
+title = "Write Free Software: A comprehensive educational resource for the Free Software movement"
 date = "2023-05-17"
 description = "writefreesoftware.org is a new website for disseminating free software philosophy and practice"
 tags = ["meta"]
