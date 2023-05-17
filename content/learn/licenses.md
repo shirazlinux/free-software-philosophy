@@ -12,18 +12,17 @@ with many different trade-offs to suit each software project's unique situation.
 A free software license grants the necessary rights, perhaps subject to
 some caveats (e.g. attribution), to establish the four freedoms for recipients
 of the software. Any software license can be a free software license if it
-upholds the four freedoms, but in practice most projects pick from one of a few
-licenses established for general use.
-
-Comments on specific general-purpose software licenses and how to choose between
-them for your own projects are addressed in
+upholds the four freedoms, but in practice most projects pick one of the many
+popular licenses established for general use. Information about these
+general-purpose software licenses and how to choose between them for your own
+projects are addressed in
 [choosing a license](/learn/participate/choose-a-license/).
 
-Generally speaking you will encounter a free software license in the "LICENSE"
-or "COPYING" file in the software source code. Other projects, particularly
-those which pull together source code from many sources, have more intricate
-ways of explaining their licensing situation. A common approach to managing this
-is the [REUSE specification][0].
+Often you will encounter a free software license in the "LICENSE" or "COPYING"
+file present in the software source code. Other projects, particularly those
+which combine software from many sources, have more complex ways of explaining
+their licensing situation. A common approach to managing this is the [REUSE
+specification][0].
 
 [0]: https://reuse.software/
 
@@ -46,7 +45,7 @@ Attribution clauses require you to **attribute** the authors when distributing
 or reusing software based on a license with such a clause. This generally
 involves reproducing the license in full, or sometimes a simple copyright
 notice, when you distribute the software, modifications to it, or new software
-which incorporates some or all of the software.
+which incorporates some or all of the original software.
 
 Here's an example from the [MIT license]:
 
@@ -118,11 +117,15 @@ Not all licenses have terms which are compatible with one another; in particular
 copyleft licenses tend to be less compatible with others. Software with
 incompatible licenses cannot be combined into one work.
 
+{{< tip >}}
+You can learn more about license compatibility in [Re-using free software](/learn/participate/derived-works/).
+{{< /tip >}}
+
 ### Use of trademarks and patents
 
 Software licenses generally deal with copyright-related rights, but commercial
-software publishers often hold other kinds of intellectual property, namely
-trademarks and patents. Free software licenses often incorporate clauses which
+software publishers often hold other kinds of intellectual property, such as
+trademarks and patents. Some free software licenses incorporate clauses which
 address the relationship between the software's copyright grant and other
 intellectual property, for example agreeing that use of the software does not
 infringe on the copyright holder's patents, or forbidding the use of the

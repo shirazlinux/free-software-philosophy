@@ -26,13 +26,14 @@ Let's examine each of the four freedoms in more detail.
 ## 0: Use the software
 
 The first freedom guarantees the right for everyone to **use** the software for
-any purpose. You are entitled to the use of any free software for any reason,
+any purpose. You are entitled to the use of any free software for any purpose,
 including commercial use -- counter-intuitively, you can sell free software. You
 can also incorporate free software into your own work, but be careful -- there
-are some gotchas here, which we cover under [use & reuse](/learn/use/).
+are some gotchas here, which we cover under [use & reuse](/learn/participate/derived-works/).
 
 {{< tip >}}
-In free software lingo, this is often called the "non-discrimination" clause.
+In free software lingo, this is often called the "non-discrimination"
+requirement.
 {{< /tip >}}
 
 ## 1: Study and improve the software
@@ -57,8 +58,8 @@ it's better for everyone!
 
 {{< tip >}}
 You can charge a fee to those you share the software with, for instance to cover
-the costs of bandwidth. Note however that the recipient is entitled to share it
-on themselves without paying back any royalties.
+the costs of bandwidth. Note however that the recipient is entitled to the right
+to share it themselves, without paying back any royalties.
 {{< /tip >}}
 
 ## 3: Collaborate on the software
@@ -69,3 +70,5 @@ source code, and the people you share it with can study, improve, and share it
 right back with you. This is the foundation of the **Free Software Movement**: a
 global community of software enthusiasts sharing and improving software
 together.
+
+{{< button "/learn/licenses" "Next: Free software licenses" "next-button" >}}
