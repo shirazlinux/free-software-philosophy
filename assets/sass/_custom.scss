@@ -3,6 +3,10 @@
 	scrollbar-width: auto;
 }
 
+.nav_header {
+	position: static;
+}
+
 .nav_brand {
 	z-index: 1;
 }
@@ -27,7 +31,7 @@ a {
 	}
 }
 
-a.button, nav a, aside a {
+a.button, nav a, aside a, .page-section article a {
 	text-decoration: none;
 }
 
