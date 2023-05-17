@@ -7,7 +7,7 @@ weight: -8
 encourage the proliferation of free software and protect free software from
 being incorporated into non-free works. This works by giving you not only the
 *right* to share your improvements, but the *obligation* to share your
-improvements, under some conditions. It is very important to understand these
+improvements under some conditions. It is very important to understand these
 obligations when re-using copyleft software in your own work.
 
 {{< tip >}}
@@ -23,31 +23,32 @@ Open Source movement.
 
 Different free software licenses exist along a spectrum from **permissive** to
 **copyleft**, based on the degree to which they emphasize copyleft in their
-license terms. A permissive license will tend to allow generous reuse with
-relatively few and non-onerous obligations, such as simple attribution
-requirements. In contrast, copyleft licenses impose the obligation to share your
-changes and derived works under the same license terms.
+license terms. Permissive licenses tend to allow generous reuse with relatively
+few and non-onerous obligations, such as simple attribution requirements. In
+contrast, copyleft licenses impose the obligation to share your changes and
+derived works under the same license terms.
 
 <img src="/images/licensing-spectrum.svg" alt="various projects and licenses organized along a spectrum" />
 <small>
-  Various software licenses and projects which use them, organized on the
-  copyleft spectrum. Based on graphic by David A Wheeler, CC-BY-SA 3.0.
+  Various software licenses and examples of projects which use them, organized
+  on the copyleft spectrum. Original graphic by David A Wheeler, CC-BY-SA 3.0.
 </small>
 
 ## Why choose a copyleft license?
 
 It is common for permissively-licensed free software to be incorporated into
-non-free works. This work is often leveraged for profit, denying the four
-freedoms to users who receive the non-free work, and making profitable use of
-the software without giving anything back to the free software community.
+non-free works. This is often done in the name of greater profits by denying the
+four freedoms to users who receive the non-free work, making profitable use
+of the software without giving anything back to the free software community.
 
-Copyleft licenses answer some of these problems:
+Copyleft licenses address some of these problems:
 
 1. Copyleft promotes the proliferation of free software and the four freedoms by
    ensuring that work built on top of free software grows and benefits the free
    software ecosystem.
-2. Copyleft ensures that those who improve free software share their changes
-   with the community, so that all users can benefit from their improvements.
+2. Copyleft ensures that those who improve or re-use free software share their
+   changes with the community, so that all users can benefit from their
+   improvements.
 
 Copyleft software can be sold, like all other free software, but requiring that
 commercial improvements remain free ensures the four freedoms are upheld by all
@@ -100,6 +101,8 @@ use any license for your own work but need to share changes you make to the
 library itself. If the software uses the GPL or AGPL, you will be more
 constrained in your approach. Read the license terms carefully and consult a
 lawyer if you are unsure how to proceed.
+
+For more details, consult our page on [re-using free software](/learn/participate/derived-works/).
 
 {{< tip >}}
 The [Software Freedom Conservancy][sfc] is an organization which, among other
