@@ -80,3 +80,19 @@ ol li::marker {
 		max-width: 100%;
 	}
 }
+
+.pros ul {
+	list-style-type: "✓ ";
+
+	& ::marker {
+		color: #4CAF50;
+	}
+}
+
+.cons ul {
+	list-style-type: "✗ ";
+
+	& ::marker {
+		color: #F44336;
+	}
+}
