@@ -47,7 +47,7 @@ on, are welcome here.
 ## Code of conduct
 
 Participants are expected to respect the [Contributor Covenant Code of
-Conduct][0]. Conduct questions and problem reports should be directed to [Drew
+Conduct][coc]. Conduct questions and problem reports should be directed to [Drew
 DeVault](mailto:sir@cmpwn.com).
 
-[0]: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
+[coc]: https://www.contributor-covenant.org/version/2/1/code_of_conduct/
