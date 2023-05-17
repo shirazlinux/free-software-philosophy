@@ -52,7 +52,7 @@ You may at some point wish to change your project's license.
 [copyleft license]: /learn/participate/choose-a-license/#copyleft-licenses
 
 If the project is licensed with a [permissive license], generally speaking it
-is possible to sublicense the original project with a new license, and applying
+is possible to sublicense the original project with a new license, and apply
 the new license to future changes. You will still have to comply with the
 original license terms, such as attribution, but future changes may be licensed
 under different terms. In this sense, changing the license is similar to
