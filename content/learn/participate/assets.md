@@ -7,8 +7,8 @@ Free software licenses are most suitable for licensing, well, software. However,
 free software projects often incorporate media which is not software in and of
 itself, such as artwork and documentation. Different licenses are recommended
 for these use-cases. We have some recommendations for licenses which are
-suitable for non-software media and are within the spirit of free software and
-compatible with free software licenses.
+suitable for non-software media, are within the spirit of free software, and
+are compatible with free software licenses.
 
 ## Creative Commons
 
