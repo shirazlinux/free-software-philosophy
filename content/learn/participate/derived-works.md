@@ -21,7 +21,7 @@ into anything with relatively little obligation towards the copyright holders.
 Most permissive licenses require only that you include the license text, or even
 just a copyright statement, in your product. For free software projects which
 incorporate permissively licensed code into their work, meeting these
-obligations is is usually as straightforward as including an additional license
+obligations is usually as straightforward as including an additional license
 with your source code.
 
 When incorporating permissively licensed free software into non-free works, you

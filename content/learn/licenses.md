@@ -36,7 +36,7 @@ on. Otherwise:
 To understand your obligations under any particular license, you will have to
 read it (and perhaps consult a lawyer, especially if you represent a business).
 However, most free software licenses have some traits in common with others, and
-you get get a simple understanding of them by learning about a few essential
+you can get a simple understanding of them by learning about a few essential
 traits. Here are some common features of free software licenses:
 
 ### Attribution
