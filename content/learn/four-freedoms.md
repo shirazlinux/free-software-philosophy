@@ -25,11 +25,12 @@ Let's examine each of the four freedoms in more detail.
 
 ## 0: Use the software
 
-The first freedom guarantees the right for everyone to **use** the software for
-any purpose. You are entitled to the use of any free software for any purpose,
-including commercial use -- counter-intuitively, you can sell free software. You
-can also incorporate free software into your own work, but be careful -- there
-are some gotchas here, which we cover under [use & reuse](/learn/participate/derived-works/).
+The "zeroth" freedom guarantees the right for everyone to **use** the software
+for any purpose. You are entitled to the use of any free software for any
+purpose, including commercial use -- counter-intuitively, you can sell free
+software. You can also incorporate free software into your own work, but be
+careful -- there are some gotchas here, which we cover under [use &
+reuse](/learn/participate/derived-works/).
 
 {{< tip >}}
 In free software lingo, this is often called the "non-discrimination"
@@ -38,7 +39,7 @@ requirement.
 
 ## 1: Study and improve the software
 
-The second freedom guarantees the right to **study** the program's behavior. You
+The first freedom guarantees the right to **study** the program's behavior. You
 have a right to understand how the software you depend on works! In order to
 facilitate this, the source code must be included with the software. The
 publishers of free software cannot obfuscate the source code, forbid reverse
@@ -50,7 +51,7 @@ to better suit your needs.
 
 ## 2: Share the software
 
-The third freedom guarantees the right to **share** free software with others.
+The second freedom guarantees the right to **share** free software with others.
 If you have a copy of some free software, you can give it to your friends, or
 publish it on your website, or bundle it with other software and share it as
 part of something bigger. You can also share your improvements to it -- then
@@ -64,7 +65,7 @@ to share it themselves, without paying back any royalties.
 
 ## 3: Collaborate on the software
 
-The fourth freedom guarantees one additional right: the right to **collaborate**
+The third freedom guarantees one additional right: the right to **collaborate**
 with others on improving the software. You can study, improve, and share the
 source code, and the people you share it with can study, improve, and share it
 right back with you. This is the foundation of the **Free Software Movement**: a
