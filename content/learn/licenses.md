@@ -85,8 +85,9 @@ Here's an example from the [MIT license]:
 Some licenses don't just *permit* you to share your improvements, but *require*
 you to share your improvements. Such licenses are **copyleft** licenses, and if
 you make changes to them you are required to share those changes with others
-under the same free-software terms. Copyleft is a tool to protect free software
-from being incorporated into non-free works.
+under the same free-software terms when sharing the software or software derived
+from the original. Copyleft is a tool to protect free software from being
+incorporated into non-free works.
 
 Here's an example from the [Mozilla Public License 2.0]:
 
