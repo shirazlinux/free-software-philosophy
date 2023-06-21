@@ -57,10 +57,11 @@ You can learn more about Open Source at
 ## What is "source available" software?
 
 "Source available" software refers to any software for which the source code is
-available, but which does not uphold the four freedoms. It might limit
+available, which may or may not uphold the four freedoms. It might limit
 commercial use, restrict redistribution, prevent the user from modifying the
-software, and so on. Source available software is non-free.
+software, and so on. All free and open source software is source available, but
+not all source available software is free software.
 
 {{< tip "warning" >}}
-All source available software is non-free.
+"Source available" software is often non-free.
 {{< /tip >}}
