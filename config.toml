@@ -5,3 +5,13 @@ theme = ["github.com/onweru/compose"]
 
 [outputs]
   home = ["HTML", "RSS","JSON"]
+
+[languages]
+  [languages.en]
+    title = 'Write Free Software'
+    languageName = 'English'
+    weight = 1
+  [languages.fr]
+    title = 'Écrire un logiciel libre'
+    languageName = 'Français'
+    weight = 1

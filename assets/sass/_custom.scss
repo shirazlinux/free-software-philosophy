@@ -116,3 +116,27 @@ ol li::marker {
 	text-decoration-style: wavy;
 	text-decoration-color: #CC0000;
 }
+
+nav.i18n {
+	display: flex;
+	flex-direction: row;
+
+	svg {
+		min-width: 50px;
+		align-self: center;
+	}
+
+	ul {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+	li {
+		padding: 0;
+	}
+
+	a {
+		text-decoration: underline;
+	}
+}
