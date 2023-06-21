@@ -44,6 +44,12 @@ on, are welcome here.
 - Use "free software" rather than "open source" unless specifically referring
   to the open source movement
 
+## Translations
+
+Want to translate writefreesoftware.org into your language? Add an entry to
+config.toml for your language, then you can translate `content/whatever.md` by
+writing up e.g. `content/whatever.fr.md`.
+
 ## Code of conduct
 
 Participants are expected to respect the [Contributor Covenant Code of
