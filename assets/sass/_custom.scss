@@ -110,3 +110,9 @@ ol li::marker {
 .post_body ul {
 	list-style: inherit;
 }
+
+.non-free {
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: #CC0000;
+}
