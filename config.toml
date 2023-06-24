@@ -16,3 +16,7 @@ rssLimit = 10
     title = 'Écrire un logiciel libre'
     languageName = 'Français'
     weight = 1
+  [languages.id]
+    title = 'Membuat Free Software'
+    languageName = 'Bahasa Indonesia'
+    weight = 1
