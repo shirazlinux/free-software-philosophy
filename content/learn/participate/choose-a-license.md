@@ -69,7 +69,7 @@ incorporate their improvements back into your version. For more details, see
 
 ## Permissive licenses
 
-Permissive licenses impose relatively few obligations on the receipient of your
+Permissive licenses impose relatively few obligations on the recipient of your
 software. These licenses permit the software to be freely re-used and integrated
 into any other software project, including non-free software. It can be useful
 for projects which target commercial use or widespread adoption.
