@@ -50,6 +50,9 @@ Want to translate writefreesoftware.org into your language? Add an entry to
 config.toml for your language, then you can translate `content/whatever.md` by
 writing up e.g. `content/whatever.fr.md`.
 
+As new translations are large changes, please send them to the mailing list
+using git request-pull rather than sending individual patches.
+
 ## Code of conduct
 
 Participants are expected to respect the [Contributor Covenant Code of
