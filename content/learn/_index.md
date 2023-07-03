@@ -42,7 +42,8 @@ in its focus, and free software is more about the users. Nevertheless, the two
 movements are closely related and often work together. Each movement provides a
 different view of software freedom, but in practice nearly all software which is
 considered free software is also considered open source and vice-versa. The Open
-Source definition and the four freedoms are compatible with one another.
+Source definition and the four freedoms are almost completely compatible with
+one another.
 
 The two movements as a whole are often referred to as "free and open source
 software", or "FOSS".
