@@ -7,8 +7,9 @@ weight: -8
 encourage the proliferation of free software and protect free software from
 being incorporated into non-free works. This works by giving you not only the
 *right* to share your improvements, but the *obligation* to share your
-improvements under some conditions. It is very important to understand these
-obligations when re-using copyleft software in your own work.
+improvements under the same conditions when the software is distributed. It is
+very important to understand these obligations when re-using copyleft software
+in your own work.
 
 {{< tip >}}
 **Terminology note**:
@@ -47,7 +48,7 @@ Copyleft licenses address some of these problems:
    ensuring that work built on top of free software grows and benefits the free
    software ecosystem.
 2. Copyleft ensures that those who improve or re-use free software share their
-   changes with the community, so that all users can benefit from their
+   changes with their users, so that the community can benefit from their
    improvements.
 
 Copyleft software can be sold, like all other free software, but requiring that
@@ -64,8 +65,8 @@ Copyleft licenses differ in how strongly their copyleft clauses affect re-use of
 the software. For example, the weak copyleft [Mozilla Public License][MPL] is
 *file-based*, such that the copyleft clause covers individual source code files,
 and not the project as a whole: you can drop one of these files into any project
-without having to relicense the larger project, so long as you re-publish any
-changes to those specific files.
+without having to relicense the larger project, so long as you distribute any
+changes to those specific files under the same license terms.
 
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/
 
@@ -83,8 +84,8 @@ program as the software artifact to which the copyleft clause applies.
 On the far end of the copyleft spectrum are licenses like the [GNU Affero
 General Public License][AGPL], which extends the <abbr title="GNU General Public
 License">GPL</abbr> to apply to software used over a network, such as databases,
-and considers users of that software "recipients" of the software, who are thus
-entitled to receive the source code.
+and considers end users of that software "recipients" of the software, who are
+thus entitled to receive the source code.
 
 [AGPL]: https://www.gnu.org/licenses/agpl-3.0.html
 
@@ -98,7 +99,8 @@ conditions permitted by its license, and will likely be limited to the use of
 weak copyleft works. For example, if your software depends on a library which
 uses the <abbr title="GNU Lesser General Public License">LGPL</abbr>, you may
 use any license for your own work but need to share changes you make to the
-library itself. If the software uses the GPL or AGPL, you will be more
+library itself when you distribute the software to third parties. If the
+software uses the GPL or AGPL, you will be more
 constrained in your approach. Read the license terms carefully and consult a
 lawyer if you are unsure how to proceed.
 
