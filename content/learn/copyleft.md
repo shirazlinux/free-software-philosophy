@@ -70,7 +70,7 @@ changes to those specific files under the same license terms.
 
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/
 
-A somewhat stronger example is the [GNU Lesser General Public License][LGPL],
+A somewhat stronger copyleft example is the [GNU Lesser General Public License][LGPL],
 which deals specifically with software libraries. These libraries are compiled
 into an aggregate software artifact, such as a shared object or static archive,
 and the copyleft terms applies to this entire artifact. However, when this is
@@ -95,7 +95,7 @@ The simplest way to re-use copyleft works is to apply its license to your own
 work and distribute it accordingly.
 
 If you do not want to do this, you can only use a copyleft work under the
-conditions permitted by its license, and will likely be limited to the use of
+conditions permitted by its license, which will likely limit you to the use of
 weak copyleft works. For example, if your software depends on a library which
 uses the <abbr title="GNU Lesser General Public License">LGPL</abbr>, you may
 use any license for your own work but need to share changes you make to the
