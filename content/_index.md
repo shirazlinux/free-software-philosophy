@@ -16,7 +16,7 @@ users and authors &mdash; the freedom to **use**, **study**, **improve**, and
 
 {{< column >}}
 ![Picture of hackers at FOSDEM](/images/banner.jpg)
-<small>Photo by Flo Köhler, CC-BY 3.0</small>
+<small>Photo by Flo Köhler, CC BY 3.0</small>
 {{< /column >}}
 
 {{< /block >}}

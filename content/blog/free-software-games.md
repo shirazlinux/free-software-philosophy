@@ -120,8 +120,8 @@ share of the dwindling asset sales as your game ages.
 Using Creative Commons also allows you to tune the degree to which your assets
 may be re-used. You can choose different CC licenses to control the
 commercialization of your assets and use in derivative works. To allow free
-redistribution and nothing else, the CC-NC-ND license (noncommercial, no
-derivatives) will do the trick. The CC-BY-SA license is the copyleft of creative
+redistribution and nothing else, the CC NC-ND license (noncommercial, no
+derivatives) will do the trick. The CC BY-SA license is the copyleft of creative
 commons: it will allow free redistribution, commercialization, and derivative
 works, *if* the derivatives are also shared with the same rights. The permissive
 approach is CC-0, which is equivalent to releasing your assets into the public
@@ -197,7 +197,7 @@ first:
 - And the assets? Proprietary? Creative Commons? If the latter, which version?
 
 If you're not sure what's best, I would recommend using the GPL for your code,
-and CC-BY-SA for the assets. This allows for derivative works, so long as
+and CC BY-SA for the assets. This allows for derivative works, so long as
 they're also made open with a similar license. This enables the community to
 build on your work, porting it to new platforms, building a thriving modding
 community, and freely sharing your assets, ensuring an enduring legacy for your
