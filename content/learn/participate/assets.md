@@ -23,13 +23,13 @@ utility of your project within the free software ecosystem.
 
 ## Hardware
 
-Hardware projects (schematics, HDL sources, etc) are encouraged to use the 
+Hardware projects (schematics, HDL sources, etc.) are encouraged to use the
 <a href="https://cern-ohl.web.cern.ch/home" class="non-free" title="This link will take you to a non-free website">CERN Open Hardware License</a>.
 
 ## Fonts
 
 The
-<a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL" class="non-free" title="This link will take you to a non-free website">SIL Open Font License</a>.
+<a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL" class="non-free" title="This link will take you to a non-free website">SIL Open Font License</a>
 is recommended for distributing fonts in a manner compatible with free software.
 
 ## Documentation
