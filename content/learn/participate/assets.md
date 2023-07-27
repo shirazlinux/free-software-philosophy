@@ -21,6 +21,19 @@ utility of your project within the free software ecosystem.
 
 [0]: https://creativecommons.org/
 
+## Open Data Commons
+
+Databases can be licensed under the Open Database License. The most prominent
+project using it is OpenStreetMap -- which in 2012 underwent a move from CC&nbsp;BY-SA.
+The new license was needed in part because in certain jurisdictions, databases
+may have additional protections in parallel to (or instead of) copyright.
+
+Similarly to Creative Commons, [Open Data Commons][odc] publishes a collection
+of licenses designed for different needs: copyleft, attribution and public
+domain dedication.
+
+[odc]: https://opendatacommons.org/
+
 ## Hardware
 
 Hardware projects (schematics, HDL sources, etc.) are encouraged to use the
