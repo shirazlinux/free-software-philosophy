@@ -38,6 +38,7 @@ domain dedication.
 
 Hardware projects (schematics, HDL sources, etc.) are encouraged to use the
 <a href="https://cern-ohl.web.cern.ch/home" class="non-free" title="This link will take you to a non-free website">CERN Open Hardware License</a>.
+It comes in several variants: strongly and weakly reciprocal, as well as permissive.
 
 ## Fonts
 
