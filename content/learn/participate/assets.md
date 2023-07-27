@@ -13,13 +13,13 @@ are compatible with free software licenses.
 ## Creative Commons
 
 Most multimedia assets -- images, audio, videos, writing, and so on -- are
-suitable for use with [Creative Commons][0] licenses, which include configurable
+suitable for use with [Creative Commons][cc] licenses, which include configurable
 options for traits such as copyleft and attribution. Note, however, that the -ND
 (no derivatives) and -NC (non-commercial) variants of Creative Commons licenses
 are incompatible with free software, and the use of these assets will limit the
 utility of your project within the free software ecosystem.
 
-[0]: https://creativecommons.org/
+[cc]: https://creativecommons.org/
 
 ## Open Data Commons
 
