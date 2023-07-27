@@ -40,6 +40,12 @@ Hardware projects (schematics, HDL sources, etc.) are encouraged to use the
 <a href="https://cern-ohl.web.cern.ch/home" class="non-free" title="This link will take you to a non-free website">CERN Open Hardware License</a>.
 It comes in several variants: strongly and weakly reciprocal, as well as permissive.
 
+The [Open Source Hardware Association][oshwa] provides a number of resources
+such as guides, FAQs or logos. It also maintains a directory of existing Open
+Hardware projects and issues OSHW certifications for them.
+
+[oshwa]: https://www.oshwa.org/
+
 ## Fonts
 
 The
