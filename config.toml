@@ -12,10 +12,6 @@ rssLimit = 10
     title = 'Write Free Software'
     languageName = 'English'
     weight = 1
-  [languages.fr]
-    title = 'Écrire un logiciel libre'
-    languageName = 'Français'
-    weight = 1
   [languages.zh-cn]
     title = '编写自由软件'
     languageName = '简体中文'
