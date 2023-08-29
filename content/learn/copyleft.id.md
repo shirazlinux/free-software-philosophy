@@ -36,7 +36,7 @@ Anda dan hasil pekerjaan turunan dengan lisensi yang sama.
 <small>
   Beragam lisensi perangkat lunak dan contoh proyek yang menggunakan mereka,
   dikelompokkan dalam spektrum <i>copyleft</i>.
-  Gambar asli oleh David A Wheeler, CC-BY-SA 3.0.
+  Gambar asli oleh David A Wheeler, CC BY-SA 3.0.
 </small>
 
 ## Kenapa memilih lisensi _copyleft_?
@@ -112,7 +112,7 @@ Jika Anda tidak ingin seperti itu, Anda hanya dapat menggunakan hasil kerja
 _copyleft_ di bawah kondisi yang dibolehkan oleh lisensi-nya, dan kemungkinan
 terbatas pada penggunaan dari hasil kerja _copyleft_ yang lemah.
 Sebagai contohnya, jika perangkat lunak Anda bergantung pada sebuah pustaka
-dengan lisensi 
+dengan lisensi
 <abbr title="GNU Lesser General Public License">LGPL</abbr>,
 Anda dapat menggunakan lisensi apa pun terhadap hasil kerja Anda tapi harus
 membagikan perubahan yang Anda buat pada pustaka tersebut.

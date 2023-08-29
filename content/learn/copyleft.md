@@ -32,7 +32,7 @@ derived works under the same license terms.
 <img src="/images/licensing-spectrum.svg" alt="various projects and licenses organized along a spectrum" />
 <small>
   Various software licenses and examples of projects which use them, organized
-  on the copyleft spectrum. Original graphic by David A Wheeler, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+  on the copyleft spectrum. Original graphic by David A Wheeler, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
 </small>
 
 ## Why choose a copyleft license?

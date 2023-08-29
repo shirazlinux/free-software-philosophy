@@ -15,7 +15,7 @@ weight: -8
 
 <img src="/images/licensing-spectrum.svg" alt="各种项目及许可证排在一份光谱下" />
 <small>
-  各种软件许可证，以及使用了这些许可证的项目的例子，排在一份 copyleft 光谱之下。原图作者为 David A Wheeler，CC-BY-SA 3.0.
+  各种软件许可证，以及使用了这些许可证的项目的例子，排在一份 copyleft 光谱之下。原图作者为 David A Wheeler，CC BY-SA 3.0.
 </small>
 
 ## 为何选用一份 copyleft 许可证？
