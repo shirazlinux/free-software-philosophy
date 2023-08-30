@@ -175,8 +175,8 @@ your community will be too busy having fun to judge you for the quality of your
 code. The idea that it just needs to be "cleaned up" first is the death of many
 projects which would otherwise have been made free software. If you feel this
 way, you will probably never be satisfied, and thus you'll never open it. I
-assure you: your game is ready to make free software, no matter what state it's
-in!
+assure you: your game is ready to be made free software, no matter what state
+it's in!
 
 Bonus: Ethan Lee tipped me off to some truly awful code which was left in
 VVVVVV, which you can freely browse on the [2.2 tag][vvvvvv 2.2]. It's not
