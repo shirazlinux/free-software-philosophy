@@ -4,6 +4,11 @@
   url = "learn/"
 
 [[main]]
+  name = "Community"
+  weight = 5
+  url = "https://discourse.writefreesoftware.org"
+
+[[main]]
   name = "Blog"
   weight = 5
   url = "blog/"
