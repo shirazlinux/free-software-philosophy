@@ -245,7 +245,6 @@ function lazyLoadMedia(elements = []) {
 function loadActions() {
   updateDate();
   customizeSidebar();
-  markExternalLinks();
   createDeepLinks();
   copyHeadingLink();
   makeTablesResponsive();
