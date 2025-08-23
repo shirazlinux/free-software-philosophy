@@ -1,6 +1,6 @@
-baseURL = 'https://writefreesoftware.org'
-languageCode = 'en-US'
-title = 'Write Free Software'
+baseURL = 'https://free.sudoshz.ir'
+languageCode = 'fa'
+title = 'فلسفه نرم‌افزار آزاد'
 theme = ["github.com/onweru/compose"]
 rssLimit = 10
 
