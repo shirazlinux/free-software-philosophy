@@ -22,8 +22,3 @@ enable = false
 lightMode = "images/wfs-dark.svg"
 darkMode = "images/wfs-light.svg"
 
-[source]
-name = "SourceHut"
-iconLight = "images/sourcehut.svg"
-iconDark = "images/sourcehut-white.svg"
-url = "https://git.sr.ht/~sircmpwn/writefreesoftware.org"

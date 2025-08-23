@@ -1,14 +1,9 @@
 [[main]]
-  name = "Learn"
+  name = "آموزش"
   weight = 2
   url = "learn/"
 
 [[main]]
-  name = "Community"
+  name = "جامعه نرم‌افزار آزاد"
   weight = 5
-  url = "https://discourse.writefreesoftware.org"
-
-[[main]]
-  name = "Blog"
-  weight = 5
-  url = "blog/"
+  url = "https://sudoshz.ir/"
