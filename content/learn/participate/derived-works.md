@@ -1,74 +1,40 @@
 ---
-title: Re-using free software
+title: استفاده مجدد از نرم‌افزار آزاد
 weight: 90
 ---
 
-One of the great advantages of free software is its potential for re-use. You
-can incorporate code from other free software projects into new projects, saving
-time and allowing you to build on the shoulders of giants. Of course, you have
-to respect the original project's work, and that means complying with their free
-software license terms.
+یکی از مزایای بزرگ نرم‌افزار آزاد، پتانسیل آن برای استفاده مجدد است. شما می‌توانید کد را از پروژه‌های نرم‌افزار آزاد دیگر در پروژه‌های جدید وارد کنید، که این کار باعث صرفه‌جویی در زمان می‌شود و به شما امکان می‌دهد بر شانه‌های غول‌ها بایستید. البته، باید به کار پروژه اصلی احترام بگذارید، و این به این معناست که باید با شرایط مجوز نرم‌افزار آزاد آن‌ها مطابقت داشته باشید.
 
 {{< tip "warning" >}}
-Always read the license carefully when incorporating someone else's work into
-your own software.
+همیشه هنگام گنجاندن کار دیگران در نرم‌افزار خود، مجوز را با دقت بخوانید.
 {{< /tip >}}
 
-## Incorporating permissive software into new works
+## گنجاندن نرم‌افزار با مجوز آسان‌گیر در آثار جدید
 
-The main appeal of permissive software licenses is the ability to incorporate it
-into anything with relatively little obligation towards the copyright holders.
-Most permissive licenses require only that you include the license text, or even
-just a copyright statement, in your product. For free software projects which
-incorporate permissively licensed code into their work, meeting these
-obligations is usually as straightforward as including an additional license
-with your source code.
+جذابیت اصلی مجوزهای آسان‌گیر، امکان گنجاندن آن‌ها در هر چیزی با تعهدات نسبتاً کم نسبت به دارندگان کپی‌رایت است. اکثر مجوزهای آسان‌گیر تنها ایجاب می‌کنند که متن مجوز یا حتی فقط یک بیانیه کپی‌رایت را در محصول خود بگنجانید. برای پروژه‌های نرم‌افزار آزاد که کد با مجوز آسان‌گیر را در کار خود گنجانده‌اند، برآورده کردن این تعهدات معمولاً به سادگی افزودن یک مجوز اضافی به کد منبع است.
 
-When incorporating permissively licensed free software into non-free works, you
-must distribute the free software license and/or copyright attribution with your
-software. Many commercial users of permissively licensed free software include a
-menu somewhere in their product which enumerates the applicable software
-licenses, or include a printed version with the product. You will need to come
-up with a similar approach.
+هنگام گنجاندن نرم‌افزار آزاد با مجوز آسان‌گیر در آثار غیرآزاد، باید مجوز نرم‌افزار آزاد و/یا بیانیه کپی‌رایت را با نرم‌افزار خود توزیع کنید. بسیاری از کاربران تجاری نرم‌افزار آزاد با مجوز آسان‌گیر، منویی را در جایی از محصول خود قرار می‌دهند که مجوزهای نرم‌افزاری مربوطه را فهرست می‌کند یا نسخه چاپی آن را همراه محصول ارائه می‌دهند. شما نیز باید رویکرد مشابهی اتخاذ کنید.
 
-## Incorporating copyleft software into new works
+## گنجاندن نرم‌افزار کپی‌لفت در آثار جدید
 
 {{< tip "warning" >}}
-Copyleft software **cannot** be incorporated into non-free software.
+نرم‌افزار کپی‌لفت **نمی‌تواند** در نرم‌افزار غیرآزاد گنجانده شود.
 {{< /tip >}}
 
-Most free software can be incorporated into copyleft software, and vice versa,
-if the licenses are **compatible**. As a general rule, most popular permissive
-licenses -- but not all -- are compatible with most popular copyleft licenses.
-*Some* copyleft licenses are compatible with other copyleft licenses (for
-instance, the Mozilla Public License 2.0 is compatible with the GNU family of
-licenses), but many are not. Any two projects which use the *same* copyleft
-license are compatible with each other and may share code freely.
+اکثر نرم‌افزارهای آزاد می‌توانند در نرم‌افزار کپی‌لفت گنجانده شوند و بالعکس، اگر مجوزها **سازگار** باشند. به عنوان یک قاعده کلی، اکثر مجوزهای آسان‌گیر محبوب — اما نه همه — با اکثر مجوزهای کپی‌لفت محبوب سازگار هستند. *برخی* از مجوزهای کپی‌لفت با سایر مجوزهای کپی‌لفت سازگار هستند (برای مثال، مجوز عمومی موزیلا ۲.۰ با خانواده مجوزهای گنو سازگار است)، اما بسیاری از آن‌ها سازگار نیستند. هر دو پروژه‌ای که از *همان* مجوز کپی‌لفت استفاده می‌کنند، با یکدیگر سازگار هستند و می‌توانند کد را آزادانه به اشتراک بگذارند.
 
 {{< tip >}}
-GNU maintains a list of licenses which are compatible and incompatible with the
-GPL family of copyleft licenses [here][0].
+گنو فهرستی از مجوزهای سازگار و ناسازگار با خانواده مجوزهای کپی‌لفت GPL را [اینجا][0] نگهداری می‌کند.
 
 [0]: https://www.gnu.org/licenses/license-list.html
 {{< /tip >}}
 
-Incorporating permissive code into a copyleft project is straightforward if the
-licenses are compatible: see the previous section.
+گنجاندن کد با مجوز آسان‌گیر در یک پروژه کپی‌لفت، اگر مجوزها سازگار باشند، ساده است: به بخش قبلی مراجعه کنید.
 
 {{< tip "warning" >}}
-The inverse, incorporating copyleft software into a permissively licensed
-software project, is less straightforward. In this case, the combined work
-becomes subject to the terms of the copyleft license. Managing a mix of
-permissive and copyleft licenses in a single work is possible, but has important
-and meaningful implications for your project. This is strongly advised against
-for non-experts: don't mix copyleft code into a permissive project unless you
-are prepared for the project to [switch to a copyleft
-license](/learn/participate/copyright-ownership/#changing-a-projects-license).
+برعکس، گنجاندن نرم‌افزار کپی‌لفت در یک پروژه نرم‌افزاری با مجوز آسان‌گیر، کمتر ساده است. در این حالت، اثر ترکیبی مشمول شرایط مجوز کپی‌لفت می‌شود. مدیریت ترکیبی از مجوزهای آسان‌گیر و کپی‌لفت در یک اثر واحد ممکن است، اما پیامدهای مهم و معناداری برای پروژه شما دارد. این کار به غیرمتخصصان به شدت توصیه نمی‌شود: کد کپی‌لفت را در یک پروژه آسان‌گیر وارد نکنید، مگر اینکه آماده باشید که پروژه به [مجوز کپی‌لفت تغییر کند](/learn/participate/copyright-ownership/#changing-a-projects-license).
 {{< /tip >}}
 
-## Managing many licenses and copyrights in one project
+## مدیریت چندین مجوز و کپی‌رایت در یک پروژه
 
-Larger and more complex projects may incorporate software from many different
-sources with many different licenses and copyright holders. If this describes
-your project, we recommend that you consider applying the
-[REUSE](https://reuse.software/) specification to your work.
+پروژه‌های بزرگ‌تر و پیچیده‌تر ممکن است نرم‌افزار را از منابع مختلف با مجوزها و دارندگان کپی‌رایت متفاوت وارد کنند. اگر این توصیف پروژه شماست، توصیه می‌کنیم که مشخصات [REUSE](https://reuse.software/) را در کار خود اعمال کنید.

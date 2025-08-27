@@ -1,11 +1,8 @@
 ---
-title: Getting involved
+title: مشارکت
 weight: 2
 ---
 
-There are many ways to get involved with the Free Software movement, including
-publishing your own free software projects, contributing to existing free
-software communities, organizing events and activism for the cause of free
-software, and more.
+راه‌های زیادی برای مشارکت در جنبش نرم‌افزار آزاد وجود دارد، از جمله انتشار پروژه‌های نرم‌افزاری آزاد خودتان، مشارکت در جوامع موجود نرم‌افزار آزاد، سازمان‌دهی رویدادها و فعالیت‌های حمایتی برای ترویج نرم‌افزار آزاد، و موارد دیگر.
 
-{{< button "/learn/participate/contribute" "Learn about contributing" >}}{{< button "/learn/participate/publish" "Learn about publishing" >}}
+{{< button "/learn/participate/contribute" "درباره مشارکت بیاموزید" >}}{{< button "/learn/participate/publish" "درباره انتشار بیاموزید" >}}

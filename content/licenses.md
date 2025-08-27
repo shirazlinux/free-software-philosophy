@@ -1,151 +1,76 @@
 ---
-title: Free software licenses
+title: مجوزهای نرم‌افزار آزاد
 weight: -9
 ---
 
-The [four freedoms](/learn/four-freedoms/) are generally guaranteed through the
-use of a **free software license**. There are many different kinds of licenses
-with many different trade-offs to suit each software project's unique situation.
+[چهار آزادی](/learn/four-freedoms/) معمولاً از طریق استفاده از یک **مجوز نرم‌افزار آزاد** تضمین می‌شوند. انواع مختلفی از مجوزها با مزایا و معایب متفاوت وجود دارند که با موقعیت منحصربه‌فرد هر پروژه نرم‌افزاری سازگار هستند.
 
-## How a free software license works
+## نحوه کار مجوز نرم‌افزار آزاد
 
-A free software license grants the necessary rights, perhaps subject to
-some caveats (e.g. attribution), to establish the four freedoms for recipients
-of the software. Any software license can be a free software license if it
-upholds the four freedoms, but in practice most projects pick one of the many
-popular licenses established for general use. Information about these
-general-purpose software licenses and how to choose between them for your own
-projects are addressed in
-[choosing a license](/learn/participate/choose-a-license/).
+یک مجوز نرم‌افزار آزاد حقوق لازم را، شاید با برخی شرایط (مانند ذکر منبع)، اعطا می‌کند تا چهار آزادی برای دریافت‌کنندگان نرم‌افزار برقرار شود. هر مجوز نرم‌افزاری می‌تواند یک مجوز نرم‌افزار آزاد باشد اگر چهار آزادی را رعایت کند، اما در عمل، اکثر پروژه‌ها یکی از مجوزهای عمومی و شناخته‌شده را برای استفاده انتخاب می‌کنند. اطلاعات مربوط به این مجوزهای نرم‌افزاری عمومی و نحوه انتخاب بین آن‌ها برای پروژه‌های خودتان در بخش [انتخاب مجوز](/learn/participate/choose-a-license/) توضیح داده شده است.
 
-Often you will encounter a free software license in the "LICENSE" or "COPYING"
-file present in the software source code. Other projects, particularly those
-which combine software from many sources, have more complex ways of explaining
-their licensing situation. A common approach to managing this is the [REUSE
-specification][0].
+اغلب، مجوز نرم‌افزار آزاد را در فایل‌های «LICENSE» یا «COPYING» موجود در کد منبع نرم‌افزار خواهید یافت. برخی پروژه‌ها، به‌ویژه آن‌هایی که نرم‌افزار را از منابع متعدد ترکیب می‌کنند، روش‌های پیچیده‌تری برای توضیح وضعیت مجوز خود دارند. یک روش رایج برای مدیریت این موضوع، استفاده از [مشخصات REUSE][0] است.
 
 [0]: https://reuse.software/
 
-If you want to know more about how free software licenses work in detail, read
-on. Otherwise:
+اگر می‌خواهید اطلاعات بیشتری درباره نحوه کار مجوزهای نرم‌افزار آزاد به صورت دقیق بدانید، ادامه دهید. در غیر این صورت:
 
-{{< button "/learn/participate" "Next: Getting involved" "next-button" >}}
+{{< button "/learn/participate" "بعدی: مشارکت" "next-button" >}}
 
-## Common traits of free software licenses
+## ویژگی‌های مشترک مجوزهای نرم‌افزار آزاد
 
-To understand your obligations under any particular license, you will have to
-read it (and perhaps consult a lawyer, especially if you represent a business).
-However, most free software licenses have some traits in common with others, and
-you can get a simple understanding of them by learning about a few essential
-traits. Here are some common features of free software licenses:
+برای درک تعهدات خود تحت یک مجوز خاص، باید آن را بخوانید (و شاید، به‌ویژه اگر نماینده یک کسب‌وکار هستید، با یک وکیل مشورت کنید). با این حال، اکثر مجوزهای نرم‌افزار آزاد ویژگی‌های مشترکی با یکدیگر دارند و شما می‌توانید با یادگیری چند ویژگی اساسی، درک ساده‌ای از آن‌ها به دست آورید. در ادامه برخی از ویژگی‌های رایج مجوزهای نرم‌افزار آزاد آورده شده است:
 
-### Attribution
+### ذکر منبع
 
-Attribution clauses require you to **attribute** the authors when distributing
-or reusing software based on a license with such a clause. This generally
-involves reproducing the license in full, or sometimes a simple copyright
-notice, when you distribute the software, modifications to it, or new software
-which incorporates some or all of the original software.
+بندهای ذکر منبع شما را ملزم می‌کنند که هنگام توزیع یا استفاده مجدد از نرم‌افزار تحت مجوزی که چنین شرطی دارد، **نویسندگان** را ذکر کنید. این معمولاً شامل بازتولید کامل متن مجوز یا گاهی یک اطلاعیه کپی‌رایت ساده است که هنگام توزیع نرم‌افزار، تغییرات آن یا نرم‌افزار جدیدی که بخشی یا تمام نرم‌افزار اصلی را در بر می‌گیرد، باید ارائه شود.
 
-Here's an example from the [MIT license]:
+در اینجا مثالی از [مجوز MIT] آورده شده است:
 
-> Permission is hereby granted, free of charge, to any person obtaining a copy of
-> this software and associated documentation files (the “Software”), to deal in
-> the Software without restriction, including without limitation the rights to
-> use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-> the Software, and to permit persons to whom the Software is furnished to do so,
-> subject to the following conditions:
+> بدین‌وسیله به هر شخصی که نسخه‌ای از این نرم‌افزار و فایل‌های مستندات مرتبط (نرم‌افزار) را دریافت می‌کند، به صورت رایگان اجازه داده می‌شود که بدون محدودیت، از جمله بدون محدودیت حقوق استفاده، کپی، اصلاح، ادغام، انتشار، توزیع، اعطای مجوز فرعی و/یا فروش نسخه‌های نرم‌افزار، و اجازه دادن به کسانی که نرم‌افزار به آن‌ها ارائه شده است، این کار را انجام دهند، مشروط به رعایت شرایط زیر:
 > 
-> <strong style="color: var(--theme)">The above copyright notice and this permission
-> notice shall be included in all copies or substantial portions of the
-> Software.</strong>
+> <strong style="color: var(--theme)">اطلاعیه کپی‌رایت بالا و این اطلاعیه اجازه باید در تمام نسخه‌ها یا بخش‌های قابل‌توجه نرم‌افزار گنجانده شود.</strong>
 
 [MIT license]: https://mit-license.org
 
-### Disclaimer of warranty
+### سلب مسئولیت گارانتی
 
-Free software is often provided as a gift. In exchange for this gift, you often
-are asked to agree to accept the software as-is, without any particular
-expectations of support or warranty from the publisher. This **disclaimer of
-warranty** is used to disclaim liability for free software, so the recipient is
-responsible for what they do with it.
+نرم‌افزار آزاد اغلب به عنوان هدیه ارائه می‌شود. در ازای این هدیه، معمولاً از شما خواسته می‌شود که نرم‌افزار را همان‌گونه که هست بپذیرید، بدون انتظار خاص برای پشتیبانی یا گارانتی از ناشر. این **سلب مسئولیت گارانتی** برای سلب مسئولیت از نرم‌افزار آزاد استفاده می‌شود، بنابراین گیرنده مسئول کارهایی است که با آن انجام می‌دهد.
 
-Here's an example from the [MIT license]:
+در اینجا مثالی از [مجوز MIT] آورده شده است:
 
-> THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-> SOFTWARE.
+> نرم‌افزار «همان‌گونه که هست» ارائه می‌شود، بدون هیچ‌گونه گارانتی، صریح یا ضمنی، از جمله اما نه محدود به گارانتی‌های تجاری، تناسب برای هدف خاص و عدم نقض حقوق. تحت هیچ شرایطی نویسندگان یا دارندگان کپی‌رایت مسئول هیچ‌گونه ادعا، خسارت یا مسئولیت دیگر، چه در قرارداد، چه در جرم یا به هر نحو دیگر، ناشی از، خارج از یا در ارتباط با نرم‌افزار یا استفاده یا سایر تعاملات با نرم‌افزار نخواهند بود.
 
-### Copyleft
+### کپی‌لفت
 
-Some licenses don't just *permit* you to share your improvements, but *require*
-that, if you share the software or software derived from or incorporating parts
-of the original, you can only do so by using the same license for your
-improvements. This is a **copyleft** license: a tool to protect free software
-from being incorporated into non-free works.
+برخی مجوزها نه تنها به شما *اجازه* می‌دهند بهبودهای خود را به اشتراک بگذارید، بلکه *الزام* می‌کنند که اگر نرم‌افزار یا نرم‌افزار مشتق‌شده یا شامل بخش‌هایی از نرم‌افزار اصلی را به اشتراک می‌گذارید، باید از همان مجوز برای بهبودهای خود استفاده کنید. این یک مجوز **کپی‌لفت** است: ابزاری برای محافظت از نرم‌افزار آزاد در برابر گنجانده شدن در آثار غیرآزاد.
 
-Here's an example from the [Mozilla Public License 2.0]:
+در اینجا مثالی از [مجوز عمومی موزیلا ۲.۰] آورده شده است:
 
-> All distribution of Covered Software in Source Code Form, including any
-> Modifications that You create or to which You contribute, must be under the
-> terms of this License. You must inform recipients that the Source Code Form of
-> the Covered Software is governed by the terms of this License, and how they
-> can obtain a copy of this License. You may not attempt to alter or restrict
-> the recipients’ rights in the Source Code Form.
+> تمام توزیع نرم‌افزار تحت پوشش به شکل کد منبع، از جمله هرگونه تغییری که شما ایجاد کرده‌اید یا در آن مشارکت داشته‌اید، باید تحت شرایط این مجوز باشد. شما باید به گیرندگان اطلاع دهید که شکل کد منبع نرم‌افزار تحت پوشش توسط شرایط این مجوز اداره می‌شود و چگونه می‌توانند نسخه‌ای از این مجوز را دریافت کنند. شما نباید تلاش کنید حقوق گیرندگان در شکل کد منبع را تغییر دهید یا محدود کنید.
 
 [Mozilla Public License 2.0]: https://www.mozilla.org/en-US/MPL/2.0/
 
 {{< tip >}}
-Copyleft is covered in detail in [What is Copyleft?](/learn/copyleft)
+کپی‌لفت به طور مفصل در [کپی‌لفت چیست؟](/learn/copyleft) توضیح داده شده است.
 {{< /tip >}}
 
-### License compatibility & sublicensing
+### سازگاری مجوز و مجوز فرعی
 
-The ability to combine many works together is an essential trait of the free
-software ecosystem, but the use of many different copyright licenses can make
-this work more difficult. This is where **sublicensing** and **license
-compatibility** comes in: many free software licenses make provisions wherein
-they can be extended by the terms of additional licenses. This allows you to
-combine software with two or more compatible licenses to produce new software
-subject to the license terms of both.
+توانایی ترکیب چندین اثر با یکدیگر یکی از ویژگی‌های اساسی اکوسیستم نرم‌افزار آزاد است، اما استفاده از مجوزهای کپی‌رایت مختلف می‌تواند این کار را دشوارتر کند. اینجا است که **مجوز فرعی** و **سازگاری مجوز** مطرح می‌شود: بسیاری از مجوزهای نرم‌افزار آزاد شامل بندهایی هستند که امکان گسترش آن‌ها با شرایط مجوزهای اضافی را فراهم می‌کنند. این اجازه می‌دهد تا نرم‌افزارهایی با دو یا چند مجوز سازگار ترکیب شوند تا نرم‌افزار جدیدی تولید شود که مشمول شرایط هر دو مجوز باشد.
 
-Not all licenses have terms which are compatible with one another; in particular
-copyleft licenses tend to be less compatible with others. Software with
-incompatible licenses cannot be combined into one work.
+همه مجوزها شرایطی ندارند که با یکدیگر سازگار باشند؛ به‌ویژه مجوزهای کپی‌لفت معمولاً با سایر مجوزها کمتر سازگار هستند. نرم‌افزارهایی با مجوزهای ناسازگار نمی‌توانند در یک اثر ترکیب شوند.
 
 {{< tip >}}
-You can learn more about license compatibility in [Re-using free software](/learn/participate/derived-works/).
+می‌توانید اطلاعات بیشتری درباره سازگاری مجوز در [استفاده مجدد از نرم‌افزار آزاد](/learn/participate/derived-works/) بیاموزید.
 {{< /tip >}}
 
-### Use of trademarks and patents
+### استفاده از علائم تجاری و پتنت‌ها
 
-Software licenses generally deal with copyright-related rights, but commercial
-software publishers often hold other kinds of intellectual property, such as
-trademarks and patents. Some free software licenses incorporate clauses which
-address the relationship between the software's copyright grant and other
-intellectual property, for example agreeing that use of the software does not
-infringe on the copyright holder's patents, or forbidding the use of the
-copyright holder's trademarks.
+مجوزهای نرم‌افزاری معمولاً به حقوق مرتبط با کپی‌رایت می‌پردازند، اما ناشران نرم‌افزار تجاری اغلب انواع دیگری از مالکیت فکری، مانند علائم تجاری و پتنت‌ها، را در اختیار دارند. برخی از مجوزهای نرم‌افزار آزاد شامل بندهایی هستند که رابطه بین اعطای کپی‌رایت نرم‌افزار و سایر مالکیت‌های فکری را مشخص می‌کنند، برای مثال توافق می‌کنند که استفاده از نرم‌افزار پتنت‌های دارنده کپی‌رایت را نقض نمی‌کند یا استفاده از علائم تجاری دارنده کپی‌رایت را ممنوع می‌کنند.
 
-Here's an example from the [Apache 2.0 license]:
+در اینجا مثالی از [مجوز آپاچی ۲.۰] آورده شده است:
 
-> 3. **Grant of Patent License.** Subject to the terms and conditions of this
->    License, each Contributor hereby grants to You a perpetual, worldwide,
->    non-exclusive, no-charge, royalty-free, irrevocable (except as stated in
->    this section) patent license to make, have made, use, offer to sell, sell,
->    import, and otherwise transfer the Work, where such license applies only to
->    those patent claims licensable by such Contributor that are necessarily
->    infringed by their Contribution(s) alone or by combination of their
->    Contribution(s) with the Work to which such Contribution(s) was submitted.
->    If You institute patent litigation against any entity (including a
->    cross-claim or counterclaim in a lawsuit) alleging that the Work or a
->    Contribution incorporated within the Work constitutes direct or
->    contributory patent infringement, then any patent licenses granted to You
->    under this License for that Work shall terminate as of the date such
->    litigation is filed.
+> ۳. **اعطای مجوز پتنت.** با رعایت شرایط و ضوابط این مجوز، هر مشارکت‌کننده بدین‌وسیله به شما یک مجوز پتنت دائمی، جهانی، غیرانحصاری، رایگان، بدون حق امتیاز و غیرقابل‌لغو (مگر همان‌طور که در این بخش ذکر شده) اعطا می‌کند تا اثر را بسازید، استفاده کنید، عرضه برای فروش کنید، بفروشید، وارد کنید و به طور کلی منتقل کنید، جایی که این مجوز تنها به ادعاهای پتنتی که توسط مشارکت‌کننده قابل‌مجوزدهی هستند و به طور ضروری توسط مشارکت(های) او به تنهایی یا در ترکیب با اثری که مشارکت(های) به آن ارائه شده است، نقض می‌شوند، اعمال می‌شود. اگر شما دعوای پتنتی علیه هر نهادی (از جمله ادعای متقابل یا دعوای متقابل در یک دعوی قضایی) مطرح کنید که ادعا کند اثر یا مشارکتی که در اثر گنجانده شده است نقض مستقیم یا مشارکتی پتنت را تشکیل می‌دهد، هرگونه مجوز پتنتی که تحت این مجوز برای آن اثر به شما اعطا شده است، از تاریخ تشکیل چنین دعوایی خاتمه می‌یابد.
 
 [Apache 2.0 license]: https://www.apache.org/licenses/LICENSE-2.0.html

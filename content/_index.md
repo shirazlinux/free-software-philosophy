@@ -1,21 +1,18 @@
 +++
-title = "Write Free Software"
+title = "نرم‌افزار آزاد بنویسید"
 +++
 {{< block "grid-2" >}}
 {{< column >}}
 
-# We build software for everyone
+# ما نرم‌افزاری برای همه می‌سازیم
 
-Free software is a global collaborative movement to build the world's best
-software in a manner that respects the essential rights and freedoms of its
-users and authors &mdash; the freedom to **use**, **study**, **improve**, and
-**share** your software.
+نرم‌افزار آزاد یک جنبش همکاری جهانی است برای ساخت بهترین نرم‌افزارهای جهان به شیوه‌ای که به حقوق و آزادی‌های اساسی کاربران و نویسندگان آن احترام می‌گذارد &mdash; آزادی **استفاده**، **مطالعه**، **بهبود** و **اشتراک‌گذاری** نرم‌افزار شما.
 
-{{< button "learn" "What is free software?" >}}{{< button "learn/participate" "Get started" >}}
+{{< button "learn" "نرم‌افزار آزاد چیست؟" >}}{{< button "learn/participate" "شروع کنید" >}}
 {{< /column >}}
 
 {{< column >}}
-![Picture of hackers at FOSDEM](/images/banner.jpg)
+![تصویر هکرها در FOSDEM](/images/banner.jpg)
 {{< /column >}}
 
 {{< /block >}}

@@ -1,15 +1,20 @@
 <footer class="pt-2 pb-2">
-	<div class="wrap">
-		<p><small>
-				<a href="https://sr.ht/~sircmpwn/writefreesoftware.org/">سورس کد</a> &ndash; CC BY-SA 4.0;
-				Theme: <a href="https://github.com/onweru/compose" class="non-free"
-					title="Warning: this link will take you to GitHub, a non-free website">Source Code</a> &ndash;
-				Copyright (c) 2025 &ndash; MIT license<br />
-
-			</small></p>
-		<a href="#pagetop" id="toTop" title={{ T "to_top" }}></a>
-		{{ if .IsTranslated }}
-
-		{{ end }}
-	</div>
+    <div class="wrap">
+        <p><small>
+                <a href="https://sr.ht/~sircmpwn/writefreesoftware.org/">کد منبع مرجع</a> &ndash; CC BY-SA 4.0
+				<a href="https://sr.ht/~sircmpwn/writefreesoftware.org/"> کد منبع فارسی </a> &ndash; CC BY-SA 4.0
+                قالب: <a href="https://github.com/onweru/compose" class="non-free"
+                    title="هشدار: این لینک شما را به گیت‌هاب، یک وب‌سایت غیرآزاد، هدایت می‌کند">کد منبع</a> &ndash;
+                کپی‌رایت © ۲۰۲۵ &ndash; مجوز MIT<br />
+            </small></p>
+        <a href="#pagetop" id="toTop" title="به بالای صفحه"></a>
+        <!-- {{ if .IsTranslated }}
+            <p><small>
+                ترجمه‌ها: 
+                {{ range .Translations }}
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                {{ end }}
+            </small></p>
+        {{ end }} -->
+    </div>
 </footer>

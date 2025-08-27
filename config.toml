@@ -1,6 +1,6 @@
 baseURL = 'https://free.sudoshz.ir'
 languageCode = 'fa'
-title = 'فلسفه نرم‌افزار آزاد'
+title = 'جنبش نرم‌افزار آزاد'
 theme = ["github.com/onweru/compose"]
 rssLimit = 10
 

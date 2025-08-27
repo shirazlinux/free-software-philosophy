@@ -1,9 +1,14 @@
 [[main]]
+  name = "جامعه نرم‌افزار آزاد"
+  weight = 1
+  url = "https://sudoshz.ir/"
+
+[[main]]
   name = "آموزش"
   weight = 2
   url = "learn/"
 
 [[main]]
-  name = "جامعه نرم‌افزار آزاد"
-  weight = 5
-  url = "https://sudoshz.ir/"
+  name = "صفحه اصلی"
+  weight = 3
+  url = "/"

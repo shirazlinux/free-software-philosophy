@@ -1,18 +1,13 @@
 ---
-title: Contribute to this website
+title: مشارکت در این وب‌سایت
 weight: 1000
 ---
 
-This website is itself free software. The source code for the content and layout
-is available [on SourceHut][0], a free software development platform. Follow the
-link for information on how to contribute improvements! The website and its
-content uses the Creative Commons Attribution-ShareAlike 4.0 International
-([CC BY-SA 4.0][CC-BY-SA]) license, a copyleft license.
+این وب‌سایت خود یک نرم‌افزار آزاد است. کد منبع محتوا و چیدمان در [سورس‌هات][0]، یک پلتفرم توسعه نرم‌افزار آزاد، در دسترس است. برای اطلاعات درباره نحوه مشارکت در بهبودها، لینک را دنبال کنید! وب‌سایت و محتوای آن از مجوز کریتیو کامانز Attribution-ShareAlike 4.0 بین‌المللی ([CC BY-SA 4.0][CC-BY-SA]) استفاده می‌کند که یک مجوز کپی‌لفت است.
 
 [0]: https://sr.ht/~sircmpwn/writefreesoftware.org/
 [CC-BY-SA]: https://creativecommons.org/licenses/by-sa/4.0/
 
-The theme is based on the Hugo
-<a href="https://github.com/onweru/compose" class="non-free" title="Warning: this link will take you to GitHub, a non-free website">compose</a>
-theme, which is free software licensed with the [MIT
-license](https://mit-license.org/), copyright &copy; 2020 Weru.
+قالب وب‌سایت مبتنی بر قالب Hugo
+<a href="https://github.com/onweru/compose" class="non-free" title="هشدار: این لینک شما را به گیت‌هاب، یک وب‌سایت غیرآزاد، هدایت می‌کند">compose</a>
+است که یک نرم‌افزار آزاد با مجوز [MIT](https://mit-license.org/) است، کپی‌رایت &copy; ۲۰۲۰ Weru.

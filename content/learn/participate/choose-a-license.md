@@ -1,130 +1,110 @@
 ---
-title: Choosing a license
+title: انتخاب مجوز
 weight: 3
 ---
 
-Choosing a license is an important part of publishing your free software
-projects. There are many to choose from, and each has different trade-offs and
-implications for your project's future. It can be difficult to [change the
-license later], so you should consider it carefully at the start.
+انتخاب مجوز بخش مهمی از انتشار پروژه‌های نرم‌افزار آزاد شما است. گزینه‌های زیادی برای انتخاب وجود دارد و هر کدام مزایا و معایب خاص خود را دارند که بر آینده پروژه شما تأثیر می‌گذارند. [تغییر مجوز در آینده] ممکن است دشوار باشد، بنابراین باید از ابتدا با دقت به آن فکر کنید.
 
 [change the license later]: /learn/participate/copyright-ownership/#changing-a-projects-license
 
-Here are a few widely used free software licenses we recommend, and why you
-might choose them.
+در اینجا چند مجوز نرم‌افزار آزاد پرکاربرد را که توصیه می‌کنیم، همراه با دلایلی که ممکن است آن‌ها را انتخاب کنید، معرفی می‌کنیم.
 
 {{< tip >}}
-Once you pick a license, include it when sharing your software. The easiest
-way to do this is to copy the plain-text version into a file called "COPYING" in
-your source code repository. For more complex scenarios, we recommend the
-[REUSE][0] approach.
+پس از انتخاب مجوز، آن را هنگام اشتراک‌گذاری نرم‌افزار خود درج کنید. ساده‌ترین راه این است که نسخه متنی مجوز را در فایلی به نام "COPYING" در مخزن کد منبع خود کپی کنید. برای سناریوهای پیچیده‌تر، ما رویکرد [REUSE][0] را توصیه می‌کنیم.
 
 [0]: https://reuse.software/
 {{< /tip >}}
 
-## Copyleft licenses
+## مجوزهای کپی‌لفت
 
-Copyleft licenses are useful for ensuring that your software remains free. The
-use of copyleft requires anyone who makes improvements to your software to
-publish them under the same copyleft license, which ensures that you can
-incorporate their improvements back into your version. For more details, see
-[What is copyleft?](/learn/copyleft/)
+مجوزهای کپی‌لفت برای اطمینان از آزاد ماندن نرم‌افزار شما مفید هستند. استفاده از کپی‌لفت ایجاب می‌کند که هر کسی که نرم‌افزار شما را بهبود می‌بخشد، آن بهبودها را تحت همان مجوز کپی‌لفت منتشر کند، که این اطمینان را می‌دهد که شما می‌توانید بهبودهای آن‌ها را در نسخه خودتان ادغام کنید. برای اطلاعات بیشتر، به [کپی‌لفت چیست؟](/learn/copyleft/) مراجعه کنید.
 
 {{< block "grid-2" >}}
 
 {{< column "pros" >}}
 
-### Advantages
+### مزایا
 
-* Ensures your software remains free
-* Encourages community contributions
-* Promotes free software generally
+* تضمین می‌کند که نرم‌افزار شما آزاد باقی می‌ماند
+* مشارکت‌های جامعه را تشویق می‌کند
+* به طور کلی نرم‌افزار آزاد را ترویج می‌دهد
 
 {{< /column >}}
 
 {{< column "cons" >}}
 
-### Disadvantages
+### معایب
 
-* Less attractive to businesses
-* Must consider license compatibility for reuse
+* برای کسب‌وکارها کمتر جذاب است
+* باید سازگاری مجوز برای استفاده مجدد در نظر گرفته شود
 
 {{< /column >}}
 
 {{< /block >}}
 
-### Recommended copyleft licenses
+### مجوزهای کپی‌لفت پیشنهادی
 
-| License | Use it for... | Copyleft approach |
+| مجوز | مناسب برای... | رویکرد کپی‌لفت |
 | --- | --- | --- |
-| [Mozilla Public License 2.0] | Libraries (allows <abbr title="The practice of copying library files directly into another project instead of linking them separately">vendoring</abbr>) | File-based |
-| [GNU Lesser General Public License] | Libraries (disallows vendoring) | Object-based |
-| [GNU General Public License] | Executable programs | Executable-based |
-| [GNU Affero General Public License] | Networked services | Network-based |
+| [مجوز عمومی موزیلا ۲.۰] | کتابخانه‌ها (اجازه <abbr title="روشی که در آن فایل‌های کتابخانه مستقیماً در پروژه دیگری کپی می‌شوند به جای لینک شدن جداگانه">وندورینگ</abbr> می‌دهد) | مبتنی بر فایل |
+| [مجوز عمومی کمتر گنو] | کتابخانه‌ها (وندورینگ را ممنوع می‌کند) | مبتنی بر شیء |
+| [مجوز عمومی گنو] | برنامه‌های اجرایی | مبتنی بر برنامه اجرایی |
+| [مجوز عمومی گنو آفرو] | خدمات شبکه‌ای | مبتنی بر شبکه |
 
 [Mozilla Public License 2.0]: https://www.mozilla.org/en-US/MPL/2.0/
 [GNU Lesser General Public License]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 [GNU General Public License]: https://www.gnu.org/licenses/gpl-3.0.html
 [GNU Affero General Public License]: https://www.gnu.org/licenses/agpl-3.0.html
 
-## Permissive licenses
+## مجوزهای آسان‌گیر
 
-Permissive licenses impose relatively few obligations on the recipient of your
-software. These licenses permit the software to be freely re-used and integrated
-into any other software project, including non-free software. It can be useful
-for projects which target commercial use or widespread adoption.
+مجوزهای آسان‌گیر تعهدات نسبتاً کمی را به گیرنده نرم‌افزار شما تحمیل می‌کنند. این مجوزها اجازه می‌دهند که نرم‌افزار به راحتی مورد استفاده مجدد قرار گیرد و در هر پروژه نرم‌افزاری دیگر، از جمله نرم‌افزارهای غیرآزاد، ادغام شود. این می‌تواند برای پروژه‌هایی که استفاده تجاری یا پذیرش گسترده را هدف قرار داده‌اند مفید باشد.
 
 {{< block "grid-2" >}}
 
 {{< column "pros" >}}
 
-### Advantages
+### مزایا
 
-* Permits easy re-use
-* Encourages widespread adoption
-* Attractive to business users
+* استفاده مجدد آسان را ممکن می‌کند
+* پذیرش گسترده را تشویق می‌کند
+* برای کاربران تجاری جذاب است
 
 {{< /column >}}
 
 {{< column "cons" >}}
 
-### Disadvantages
+### معایب
 
-* Can be incorporated into non-free works
-* Discourages community contributions
+* می‌تواند در آثار غیرآزاد گنجانده شود
+* مشارکت‌های جامعه را کم‌تر تشویق می‌کند
 
 {{< /column >}}
 
 {{< /block >}}
 
-### Recommended permissive licenses
+### مجوزهای آسان‌گیر پیشنهادی
 
-We recommend the following permissive licenses:
+ما مجوزهای آسان‌گیر زیر را توصیه می‌کنیم:
 
-* [MIT license](https://mit-license.org/)
-* [BSD 3-clause license](https://opensource.org/license/bsd-3-clause/)
+* [مجوز MIT](https://mit-license.org/)
+* [مجوز BSD سه‌بندی](https://opensource.org/license/bsd-3-clause/)
 
-## Recommended for businesses
+## پیشنهادی برای کسب‌وکارها
 
-For businesses publishing free software, it may be desirable to use a
-permissive-style license which includes considerations for trademark and patent
-rights. For this purpose we recommend the [Apache 2.0 license].
+برای کسب‌وکارهایی که نرم‌افزار آزاد منتشر می‌کنند، ممکن است استفاده از یک مجوز به سبک آسان‌گیر که شامل ملاحظات مربوط به حقوق علائم تجاری و پتنت‌ها باشد، مطلوب باشد. برای این منظور، ما [مجوز آپاچی ۲.۰] را توصیه می‌کنیم.
 
 [Apache 2.0 license]: https://www.apache.org/licenses/LICENSE-2.0.html
 
-## Public domain
+## حوزه عمومی
 
-Publishers who wish to enter their software into the public domain should note
-that a simple public domain dedication is not sufficient for international use.
-We recommend the following licenses, which provide public-domain-equivalent
-legal rights in a manner compatible with international laws:
+ناشرانی که مایلند نرم‌افزار خود را به حوزه عمومی اختصاص دهند، باید توجه داشته باشند که یک اعلامیه ساده برای حوزه عمومی برای استفاده بین‌المللی کافی نیست. ما مجوزهای زیر را توصیه می‌کنیم که حقوق معادل حوزه عمومی را به شکلی سازگار با قوانین بین‌المللی ارائه می‌دهند:
 
-* [Creative Commons 0](https://creativecommons.org/share-your-work/public-domain/cc0/)
-* [Unlicense](https://unlicense.org/)
+* [کریتیو کامانز ۰](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* [آن‌لایسنس](https://unlicense.org/)
 
-## Licenses for other situations
+## مجوزها برای موقعیت‌های دیگر
 
-We have a separate page recommending licenses for non-software assets, such as
-multimedia:
+ما صفحه جداگانه‌ای برای توصیه مجوزها برای دارایی‌های غیرنرم‌افزاری، مانند چندرسانه‌ای، داریم:
 
-[Licensing non-software assets](/learn/participate/assets/)
+[صدور مجوز برای دارایی‌های غیرنرم‌افزاری](/learn/participate/assets/)

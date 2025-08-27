@@ -1,75 +1,51 @@
 ---
-title: The four freedoms
+title: چهار آزادی
 weight: -10
 ---
 
 <blockquote>
   <ol start="0">
     <li>
-      The freedom to <strong>use</strong> the software for any purpose.
+      آزادی <strong>استفاده</strong> از نرم‌افزار برای هر هدفی.
     </li>
     <li>
-      The freedom to <strong>study</strong> and <strong>improve</strong> the
-      software.
+      آزادی <strong>مطالعه</strong> و <strong>بهبود</strong> نرم‌افزار.
     </li>
     <li>
-      The freedom to <strong>share</strong> the software.
+      آزادی <strong>اشتراک‌گذاری</strong> نرم‌افزار.
     </li>
     <li>
-      The freedom to <strong>collaborate</strong> on the software.
+      آزادی <strong>همکاری</strong> در توسعه نرم‌افزار.
     </li>
   </ol>
 </blockquote>
 
-Let's examine each of the four freedoms in more detail.
+بیایید هر یک از این چهار آزادی را با جزئیات بیشتری بررسی کنیم.
 
-## 0: Use the software
+## 0: استفاده از نرم‌افزار
 
-The "zeroth" freedom guarantees the right for everyone to **use** the software
-for any purpose. You are entitled to the use of any free software for any
-purpose, including commercial use -- counter-intuitively, you can sell free
-software. You can also incorporate free software into your own work, but be
-careful -- there are some gotchas here, which we cover under [use &
-reuse](/learn/participate/derived-works/).
+آزادی «صفرم» حق همه را برای **استفاده** از نرم‌افزار برای هر هدفی تضمین می‌کند. شما مجازید از هر نرم‌افزار آزادی برای هر هدفی، از جمله استفاده تجاری، استفاده کنید — شاید به نظر غیرمنطقی بیاید، اما می‌توانید نرم‌افزار آزاد را بفروشید. همچنین می‌توانید نرم‌افزار آزاد را در کار خودتان ادغام کنید، اما مراقب باشید — برخی نکات پیچیده در این زمینه وجود دارد که در بخش [استفاده و استفاده مجدد](/learn/participate/derived-works/) توضیح داده شده است.
 
 {{< tip >}}
-In free software lingo, this is often called the "non-discrimination"
-requirement.
+در اصطلاحات نرم‌افزار آزاد، این معمولاً به عنوان الزام «عدم تبعیض» شناخته می‌شود.
 {{< /tip >}}
 
-## 1: Study and improve the software
+## 1: مطالعه و بهبود نرم‌افزار
 
-The first freedom guarantees the right to **study** the program's behavior. You
-have a right to understand how the software you depend on works! In order to
-facilitate this, the source code must be included with the software. The
-publishers of free software cannot obfuscate the source code, forbid reverse
-engineering, or otherwise prevent you from making use of it.
+آزادی اول حق **مطالعه** رفتار برنامه را تضمین می‌کند. شما حق دارید بدانید نرم‌افزاری که به آن وابسته هستید چگونه کار می‌کند! برای تسهیل این امر، کد منبع باید همراه نرم‌افزار ارائه شود. ناشران نرم‌افزار آزاد نمی‌توانند کد منبع را مبهم کنند، مهندسی معکوس را ممنوع کنند یا به هر شکلی مانع استفاده شما از آن شوند.
 
-Moreover, you have a right to **improve** the source code. You are not only
-given the right to read the source code of free software, but also to change it
-to better suit your needs.
+علاوه بر این، شما حق دارید کد منبع را **بهبود** دهید. نه تنها اجازه دارید کد منبع نرم‌افزار آزاد را بخوانید، بلکه می‌توانید آن را تغییر دهید تا بهتر با نیازهایتان سازگار شود.
 
-## 2: Share the software
+## 2: اشتراک‌گذاری نرم‌افزار
 
-The second freedom guarantees the right to **share** free software with others.
-If you have a copy of some free software, you can give it to your friends, or
-publish it on your website, or bundle it with other software and share it as
-part of something bigger. You can also share your improvements to it -- then
-it's better for everyone!
+آزادی دوم حق **اشتراک‌گذاری** نرم‌افزار آزاد با دیگران را تضمین می‌کند. اگر نسخه‌ای از یک نرم‌افزار آزاد دارید، می‌توانید آن را به دوستانتان بدهید، در وب‌سایت خود منتشر کنید یا آن را با نرم‌افزارهای دیگر ترکیب کرده و به عنوان بخشی از یک مجموعه بزرگ‌تر به اشتراک بگذارید. همچنین می‌توانید بهبودهای خود را به اشتراک بگذارید — که در این صورت برای همه بهتر خواهد بود!
 
 {{< tip >}}
-You can charge a fee to those you share the software with, for instance to cover
-the costs of bandwidth. Note however that the recipient is entitled to the right
-to share it themselves, without paying back any royalties.
+می‌توانید برای اشتراک‌گذاری نرم‌افزار هزینه‌ای دریافت کنید، مثلاً برای پوشش هزینه‌های پهنای باند. اما توجه داشته باشید که گیرنده نیز حق دارد آن را به صورت رایگان با دیگران به اشتراک بگذارد، بدون نیاز به پرداخت حق امتیاز.
 {{< /tip >}}
 
-## 3: Collaborate on the software
+## 3: همکاری در توسعه نرم‌افزار
 
-The third freedom guarantees one additional right: the right to **collaborate**
-with others on improving the software. You can study, improve, and share the
-source code, and the people you share it with can study, improve, and share it
-right back with you. This is the foundation of the **Free Software Movement**: a
-global community of software enthusiasts sharing and improving software
-together.
+آزادی سوم یک حق اضافی را تضمین می‌کند: حق **همکاری** با دیگران در بهبود نرم‌افزار. شما می‌توانید کد منبع را مطالعه کنید، بهبود دهید و به اشتراک بگذارید، و کسانی که آن را از شما دریافت می‌کنند نیز می‌توانند آن را مطالعه کنند، بهبود دهند و دوباره با شما به اشتراک بگذارند. این پایه و اساس **جنبش نرم‌افزار آزاد** است: جامعه‌ای جهانی از علاقه‌مندان به نرم‌افزار که با هم نرم‌افزار را به اشتراک می‌گذارند و بهبود می‌دهند.
 
-{{< button "/learn/licenses" "Next: Free software licenses" "next-button" >}}
+{{< button "/learn/licenses" "بعدی: مجوزهای نرم‌افزار آزاد" "next-button" >}}

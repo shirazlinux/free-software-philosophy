@@ -1,115 +1,62 @@
 ---
-title: What is copyleft?
+title: کپی‌لفت چیست؟
 weight: -8
 ---
 
-**Copyleft** is a licensing tool unique to free software. It is designed to
-encourage the proliferation of free software and protect free software from
-being incorporated into non-free works. This works by giving you not only the
-*right* to share your improvements, but the *obligation* to share your
-improvements under the same conditions when the software is distributed. It is
-very important to understand these obligations when re-using copyleft software
-in your own work.
+**کپی‌لفت** یک ابزار صدور مجوز است که به طور خاص برای نرم‌افزارهای آزاد طراحی شده است. این ابزار به منظور ترویج گسترش نرم‌افزارهای آزاد و محافظت از آن‌ها در برابر استفاده در آثار غیرآزاد ایجاد شده است. کپی‌لفت این کار را با اعطای *حق* اشتراک‌گذاری بهبودهای شما و همچنین *تعهد* به اشتراک‌گذاری این بهبودها تحت شرایط مشابه هنگام توزیع نرم‌افزار انجام می‌دهد. درک این تعهدات هنگام استفاده مجدد از نرم‌افزارهای کپی‌لفت در پروژه‌های خود بسیار مهم است.
 
 {{< tip >}}
-**Terminology note**:
-Conflating "copyleft" and "free software" is a common misconception:
-non-copyleft software can be Free Software, and Open Source software can be
-copyleft. However, those who identify more closely with the Free Software
-movement tend to favor copyleft licenses more than those who identify with the
-Open Source movement.
+**نکته اصطلاح‌شناسی**:
+اشتباه رایج این است که «کپی‌لفت» و «نرم‌افزار آزاد» را یکی فرض کنیم. نرم‌افزارهای غیرکپی‌لفت نیز می‌توانند آزاد باشند و نرم‌افزارهای متن‌باز می‌توانند کپی‌لفت باشند. با این حال، افرادی که بیشتر با جنبش نرم‌افزار آزاد هم‌راستا هستند، معمولاً به مجوزهای کپی‌لفت تمایل بیشتری دارند تا کسانی که با جنبش متن‌باز هم‌راستا هستند.
 {{< /tip >}}
 
-## The copyleft spectrum
+## طیف کپی‌لفت
 
-Different free software licenses exist along a spectrum from **permissive** to
-**copyleft**, based on the degree to which they emphasize copyleft in their
-license terms. Permissive licenses tend to allow generous reuse with relatively
-few and non-onerous obligations, such as simple attribution requirements. In
-contrast, copyleft licenses impose the obligation to share your changes and
-derived works under the same license terms.
+مجوزهای مختلف نرم‌افزارهای آزاد در طیفی از **مجوزهای آسان‌گیر** تا **کپی‌لفت** قرار دارند که بر اساس میزان تأکیدشان بر شرایط کپی‌لفت در条款‌های مجوزشان دسته‌بندی می‌شوند. مجوزهای آسان‌گیر معمولاً اجازه استفاده مجدد سخاوتمندانه‌ای با تعهدات اندک و غیر سنگین، مانند نیاز به ذکر منبع ساده، می‌دهند. در مقابل، مجوزهای کپی‌لفت شما را ملزم می‌کنند که تغییرات و آثار مشتق‌شده خود را تحت همان شرایط مجوز به اشتراک بگذارید.
 
-<img src="/images/licensing-spectrum.svg" alt="various projects and licenses organized along a spectrum" />
+<img src="/images/licensing-spectrum.svg" alt="پروژه‌ها و مجوزهای مختلف در طیف کپی‌لفت" />
 <small>
-  Various software licenses and examples of projects which use them, organized
-  on the copyleft spectrum. Original graphic by David A Wheeler, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
+  مجوزهای مختلف نرم‌افزاری و نمونه‌هایی از پروژه‌هایی که از آن‌ها استفاده می‌کنند، در طیف کپی‌لفت سازمان‌دهی شده‌اند. گرافیک اصلی توسط دیوید ای. ویلر، <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.
 </small>
 
-## Why choose a copyleft license?
+## چرا مجوز کپی‌لفت را انتخاب کنیم؟
 
-It is common for permissively-licensed free software to be incorporated into
-non-free works. This is often done in the name of greater profits by denying the
-four freedoms to users who receive the non-free work, making profitable use
-of the software without giving anything back to the free software community.
+نرم‌افزارهای آزاد با مجوزهای آسان‌گیر اغلب در آثار غیرآزاد گنجانده می‌شوند. این کار معمولاً به منظور کسب سود بیشتر انجام می‌شود و با سلب چهار آزادی از کاربرانی که اثر غیرآزاد را دریافت می‌کنند، بدون هیچ بازخوردی به جامعه نرم‌افزار آزاد، از نرم‌افزار بهره‌برداری سودآور می‌شود.
 
-Copyleft licenses address some of these problems:
+مجوزهای کپی‌لفت برخی از این مشکلات را برطرف می‌کنند:
 
-1. Copyleft promotes the proliferation of free software and the four freedoms by
-   ensuring that work built on top of free software grows and benefits the free
-   software ecosystem.
-2. Copyleft ensures that those who improve or re-use free software share their
-   changes with their users, so that the community can benefit from their
-   improvements.
+1. کپی‌لفت با اطمینان از اینکه آثار ساخته‌شده بر پایه نرم‌افزار آزاد، به رشد و بهره‌مندی اکوسیستم نرم‌افزار آزاد کمک می‌کنند، گسترش نرم‌افزار آزاد و چهار آزادی را ترویج می‌دهد.
+2. کپی‌لفت تضمین می‌کند که کسانی که نرم‌افزار آزاد را بهبود می‌دهند یا مجدداً استفاده می‌کنند، تغییرات خود را با کاربرانشان به اشتراک بگذارند تا جامعه بتواند از این بهبودها بهره‌مند شود.
 
-Copyleft software can be sold, like all other free software, but requiring that
-commercial improvements remain free ensures the four freedoms are upheld by all
-participants. Furthermore, it is difficult to change the license of copyleft
-software if the copyright is held [in&nbsp;aggregate][0], which serves as a
-strong promise for the future of the software as free software.
+نرم‌افزارهای کپی‌لفت، مانند سایر نرم‌افزارهای آزاد، می‌توانند فروخته شوند، اما الزام به آزاد ماندن بهبودهای تجاری، تضمین می‌کند که چهار آزادی برای همه مشارکت‌کنندگان حفظ شود. علاوه بر این، تغییر مجوز نرم‌افزار کپی‌لفت در صورتی که حق کپی‌رایت به صورت [تجمیعی][0] نگهداری شود، دشوار است، که این خود وعده‌ای قوی برای آینده نرم‌افزار به عنوان نرم‌افزار آزاد است.
 
 [0]: /learn/participate/copyright-ownership/
 
-## Weak and strong copyleft
+## کپی‌لفت ضعیف و قوی
 
-Copyleft licenses differ in how strongly their copyleft clauses affect re-use of
-the software. For example, the weak copyleft [Mozilla Public License][MPL] is
-*file-based*, such that the copyleft clause covers individual source code files,
-and not the project as a whole: you can drop one of these files into any project
-without having to relicense the larger project, so long as you distribute any
-changes to those specific files under the same license terms.
+مجوزهای کپی‌لفت از نظر میزان تأثیر条款‌های کپی‌لفت بر استفاده مجدد از نرم‌افزار متفاوت هستند. برای مثال، کپی‌لفت ضعیف مانند [مجوز عمومی موزیلا][MPL] مبتنی بر *فایل* است، به طوری که条款 کپی‌لفت تنها فایل‌های کد منبع خاص را شامل می‌شود و نه کل پروژه: شما می‌توانید یکی از این فایل‌ها را در هر پروژه‌ای استفاده کنید بدون نیاز به تغییر مجوز کل پروژه، مشروط بر اینکه تغییرات آن فایل‌ها را تحت همان شرایط مجوز توزیع کنید.
 
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/
 
-A somewhat stronger copyleft example is the [GNU Lesser General Public License][LGPL],
-which deals specifically with software libraries. These libraries are compiled
-into an aggregate software artifact, such as a shared object or static archive,
-and the copyleft terms applies to this entire artifact. However, when this is
-linked with a third-party program, the copyleft clause is not invoked. Stronger
-still is the [GNU General Public License][GPL], which treats the completed
-program as the software artifact to which the copyleft clause applies.
+نمونه‌ای از کپی‌لفت کمی قوی‌تر، [مجوز عمومی کمتر گنو][LGPL] است که به طور خاص برای کتابخانه‌های نرم‌افزاری طراحی شده است. این کتابخانه‌ها به یک شیء نرم‌افزاری تجمیعی، مانند یک شیء مشترک یا آرشیو استاتیک، کامپایل می‌شوند و شرایط کپی‌لفت به کل این شیء اعمال می‌شود. با این حال، هنگامی که این شیء با یک برنامه شخص ثالث لینک می‌شود،条款 کپی‌لفت فعال نمی‌شود. قوی‌تر از آن، [مجوز عمومی گنو][GPL] است که برنامه کامل را به عنوان شیء نرم‌افزاری در نظر می‌گیرد که条款 کپی‌لفت به آن اعمال می‌شود.
 
 [LGPL]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 [GPL]: https://www.gnu.org/licenses/gpl-3.0.html
 
-On the far end of the copyleft spectrum are licenses like the [GNU Affero
-General Public License][AGPL], which extends the <abbr title="GNU General Public
-License">GPL</abbr> to apply to software used over a network, such as databases,
-and considers end users of that software "recipients" of the software, who are
-thus entitled to receive the source code.
+در انتهای طیف کپی‌لفت، مجوزهایی مانند [مجوز عمومی گنو آفرو][AGPL] قرار دارند که <abbr title="GNU General Public License">GPL</abbr> را گسترش می‌دهد تا شامل نرم‌افزارهایی که از طریق شبکه استفاده می‌شوند، مانند پایگاه‌های داده، شود و کاربران نهایی این نرم‌افزار را به عنوان «دریافت‌کنندگان» نرم‌افزار در نظر می‌گیرد که بنابراین حق دریافت کد منبع را دارند.
 
 [AGPL]: https://www.gnu.org/licenses/agpl-3.0.html
 
-## How to re-use copyleft works
+## چگونه از آثار کپی‌لفت استفاده مجدد کنیم
 
-The simplest way to re-use copyleft works is to apply its license to your own
-work and distribute it accordingly.
+ساده‌ترین راه برای استفاده مجدد از آثار کپی‌لفت، اعمال مجوز آن به کار خودتان و توزیع آن بر اساس همان مجوز است.
 
-If you do not want to do this, you can only use a copyleft work under the
-conditions permitted by its license, which will likely limit you to the use of
-weak copyleft works. For example, if your software depends on a library which
-uses the <abbr title="GNU Lesser General Public License">LGPL</abbr>, you may
-use any license for your own work but need to share changes you make to the
-library itself when you distribute the software to third parties. If the
-software uses the GPL or AGPL, you will be more
-constrained in your approach. Read the license terms carefully and consult a
-lawyer if you are unsure how to proceed.
+اگر نمی‌خواهید این کار را انجام دهید، تنها می‌توانید از یک اثر کپی‌لفت تحت شرایطی که مجوز آن اجازه می‌دهد استفاده کنید، که احتمالاً شما را به استفاده از آثار کپی‌لفت ضعیف محدود می‌کند. برای مثال، اگر نرم‌افزار شما به کتابخانه‌ای وابسته باشد که از <abbr title="GNU Lesser General Public License">LGPL</abbr> استفاده می‌کند، می‌توانید از هر مجوزی برای کار خود استفاده کنید، اما باید تغییراتی که در خود کتابخانه ایجاد کرده‌اید را هنگام توزیع نرم‌افزار به اشخاص ثالث به اشتراک بگذارید. اگر نرم‌افزار از GPL یا AGPL استفاده کند، محدودیت‌های بیشتری خواهید داشت. شرایط مجوز را با دقت بخوانید و در صورت عدم اطمینان، با یک وکیل مشورت کنید.
 
-For more details, consult our page on [re-using free software](/learn/participate/derived-works/).
+برای اطلاعات بیشتر، به صفحه ما در مورد [استفاده مجدد از نرم‌افزار آزاد](/learn/participate/derived-works/) مراجعه کنید.
 
 {{< tip >}}
-The [Software Freedom Conservancy][sfc] is an organization which, among other
-activities, pursues legal remedies for copyleft enforcement. To learn more about
-copyleft enforcement for your own projects, consult their resources.
+[سازمان حفاظت از آزادی نرم‌افزار][sfc] سازمانی است که در کنار سایر فعالیت‌ها، اقدامات قانونی برای اجرای کپی‌لفت را دنبال می‌کند. برای کسب اطلاعات بیشتر درباره اجرای کپی‌لفت برای پروژه‌های خود، به منابع آن‌ها مراجعه کنید.
 
 [sfc]: https://sfconservancy.org/
 {{< /tip >}}

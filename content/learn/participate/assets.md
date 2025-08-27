@@ -1,61 +1,38 @@
 ---
-title: Licensing non-software assets
+title: صدور مجوز برای دارایی‌های غیرنرم‌افزاری
 weight: 10
 ---
 
-Free software licenses are most suitable for licensing, well, software. However,
-free software projects often incorporate media which is not software in and of
-itself, such as artwork and documentation. Different licenses are recommended
-for these use-cases. We have some recommendations for licenses which are
-suitable for non-software media, are within the spirit of free software, and
-are compatible with free software licenses.
+مجوزهای نرم‌افزار آزاد برای صدور مجوز نرم‌افزارها مناسب‌تر هستند. با این حال، پروژه‌های نرم‌افزار آزاد اغلب شامل رسانه‌هایی هستند که خودشان نرم‌افزار نیستند، مانند آثار هنری و مستندات. برای این موارد، مجوزهای متفاوتی توصیه می‌شوند. ما پیشنهادهایی برای مجوزهایی داریم که برای رسانه‌های غیرنرم‌افزاری مناسب هستند، با روحیه نرم‌افزار آزاد سازگارند و با مجوزهای نرم‌افزار آزاد هم‌خوانی دارند.
 
-## Creative Commons
+## کریتیو کامانز
 
-Most multimedia assets -- images, audio, videos, writing, and so on -- are
-suitable for use with [Creative Commons][cc] licenses, which include configurable
-options for traits such as copyleft and attribution. Note, however, that the -ND
-(no derivatives) and -NC (non-commercial) variants of Creative Commons licenses
-are incompatible with free software, and the use of these assets will limit the
-utility of your project within the free software ecosystem.
+بیشتر دارایی‌های چندرسانه‌ای — مانند تصاویر، فایل‌های صوتی، ویدئوها، نوشته‌ها و غیره — برای استفاده با مجوزهای [کریتیو کامانز][cc] مناسب هستند که گزینه‌های قابل‌تنظیمی برای ویژگی‌هایی مانند کپی‌لفت و ذکر منبع ارائه می‌دهند. با این حال، توجه داشته باشید که گونه‌های -ND (بدون آثار مشتق) و -NC (غیرتجاری) مجوزهای کریتیو کامانز با نرم‌افزار آزاد ناسازگار هستند و استفاده از این دارایی‌ها می‌تواند کاربرد پروژه شما را در اکوسیستم نرم‌افزار آزاد محدود کند.
 
 [cc]: https://creativecommons.org/
 
-## Open Data Commons
+## اوپن دیتا کامانز
 
-Databases can be licensed under the Open Database License. The most prominent
-project using it is OpenStreetMap -- which in 2012 underwent a move from CC&nbsp;BY-SA.
-The new license was needed in part because in certain jurisdictions, databases
-may have additional protections in parallel to (or instead of) copyright.
+پایگاه‌های داده می‌توانند تحت مجوز پایگاه داده باز (Open Database License) مجوزدهی شوند. برجسته‌ترین پروژه‌ای که از این مجوز استفاده می‌کند، اوپن‌استریت‌مپ است که در سال ۲۰۱۲ از CC BY-SA به این مجوز تغییر کرد. این مجوز جدید تا حدی به این دلیل لازم بود که در برخی حوزه‌های قضایی، پایگاه‌های داده ممکن است حفاظت‌های اضافی موازی (یا به جای) کپی‌رایت داشته باشند.
 
-Similarly to Creative Commons, [Open Data Commons][odc] publishes a collection
-of licenses designed for different needs: copyleft, attribution and public
-domain dedication.
+مشابه کریتیو کامانز، [اوپن دیتا کامانز][odc] مجموعه‌ای از مجوزها را برای نیازهای مختلف منتشر می‌کند: کپی‌لفت، ذکر منبع و اهدای به حوزه عمومی.
 
 [odc]: https://opendatacommons.org/
 
-## Hardware
+## سخت‌افزار
 
-Hardware projects (schematics, HDL sources, etc.) are encouraged to use the
-<a href="https://cern-ohl.web.cern.ch/home" class="non-free" title="This link will take you to a non-free website">CERN Open Hardware License</a>.
-It comes in several variants: strongly and weakly reciprocal, as well as permissive.
+پروژه‌های سخت‌افزاری (مانند شماتیک‌ها، منابع HDL و غیره) تشویق می‌شوند که از <a href="https://cern-ohl.web.cern.ch/home" class="non-free" title="این لینک شما را به یک وب‌سایت غیرآزاد هدایت می‌کند">مجوز سخت‌افزار باز سرن</a> استفاده کنند. این مجوز در چندین گونه ارائه می‌شود: متقابل قوی، متقابل ضعیف و آسان‌گیر.
 
-The [Open Source Hardware Association][oshwa] provides a number of resources
-such as guides, FAQs or logos. It also maintains a directory of existing Open
-Hardware projects and issues OSHW certifications for them.
+[انجمن سخت‌افزار متن‌باز][oshwa] منابع متعددی مانند راهنماها، پرسش‌های متداول یا لوگوها ارائه می‌دهد. همچنین فهرستی از پروژه‌های سخت‌افزار باز موجود را نگهداری می‌کند و گواهینامه‌های OSHW برای آن‌ها صادر می‌کند.
 
 [oshwa]: https://www.oshwa.org/
 
-## Fonts
+## فونت‌ها
 
-The
-<a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL" class="non-free" title="This link will take you to a non-free website">SIL Open Font License</a>
-is recommended for distributing fonts in a manner compatible with free software.
+<a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL" class="non-free" title="این لینک شما را به یک وب‌سایت غیرآزاد هدایت می‌کند">مجوز فونت باز SIL</a> برای توزیع فونت‌ها به شکلی سازگار با نرم‌افزار آزاد توصیه می‌شود.
 
-## Documentation
+## مستندات
 
-Most projects don't use a special license for their documentation. However,
-the [GNU Free Documentation License][fdl] is occasionally used for this
-purpose.
+اکثر پروژه‌ها برای مستندات خود از مجوز خاصی استفاده نمی‌کنند. با این حال، [مجوز مستندات آزاد گنو][fdl] گاهی برای این منظور استفاده می‌شود.
 
 [fdl]: https://www.gnu.org/licenses/fdl-1.3.html

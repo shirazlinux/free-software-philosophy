@@ -1,50 +1,26 @@
 ---
-title: Contribute to free software
+title: مشارکت در نرم‌افزار آزاد
 weight: 1
 ---
 
-Scores of free software projects are looking for help. No matter your area of
-expertise -- competence in any programming language, writing documentation,
-community management, marketing skills, design and art skills -- there's a
-project out there which could use your help. Look at the tools you use every
-day: chances are that many of them are already free software.
+ده‌ها پروژه نرم‌افزار آزاد به دنبال کمک هستند. فرقی نمی‌کند تخصص شما در چه زمینه‌ای باشد — مهارت در هر زبان برنامه‌نویسی، نوشتن مستندات، مدیریت جامعه، مهارت‌های بازاریابی، طراحی و هنر — پروژه‌ای وجود دارد که می‌تواند از کمک شما بهره‌مند شود. به ابزارهایی که هر روز استفاده می‌کنید نگاه کنید: به احتمال زیاد بسیاری از آن‌ها همین حالا هم نرم‌افزار آزاد هستند.
 
-Their communities are waiting to meet you! Find their chat rooms, internet
-forums, and other hang-outs and introduce yourself.
+جوامع این پروژه‌ها منتظر دیدار با شما هستند! اتاق‌های گفت‌وگو، انجمن‌های اینترنتی و دیگر مکان‌های گردهمایی آن‌ها را پیدا کنید و خودتان را معرفی کنید.
 
-## Things to know
+## نکاتی که باید بدانید
 
-When you submit improvements to free software, you will generally be expected to
-provide them under the terms of the software license the project is already
-distributed with. Review the license and ensure that you can agree to its terms
-when licensing your own contributions.
+هنگامی که بهبودهایی برای نرم‌افزار آزاد ارائه می‌کنید، معمولاً انتظار می‌رود که این بهبودها را تحت شرایط مجوز نرم‌افزاری که پروژه از قبل با آن توزیع شده است، ارائه دهید. مجوز را بررسی کنید و مطمئن شوید که می‌توانید با شرایط آن برای مجوزدهی به مشارکت‌های خود موافقت کنید.
 
-If you don't own the work you are contributing (for example, you're contributing
-on your employer's time or equipment), you need to secure the authorization of
-the copyright holder. This also applies if you incorporate code from another
-free software project -- see <nobr>[re-using free software][0]</nobr> for
-more details.
+اگر مالک اثری که ارائه می‌دهید نیستید (برای مثال، در زمان یا با تجهیزات کارفرمای خود مشارکت می‌کنید)، باید مجوز دارنده کپی‌رایت را دریافت کنید. این موضوع همچنین در صورتی که کد را از پروژه نرم‌افزار آزاد دیگری وارد کنید نیز صدق می‌کند — برای جزئیات بیشتر به <nobr>[استفاده مجدد از نرم‌افزار آزاد][0]</nobr> مراجعه کنید.
 
 [0]: /learn/participate/derived-works/
 
-## Regarding "Contributor License Agreements"
+## درباره «موافقت‌نامه‌های مجوز مشارکت‌کننده»
 
-Some projects will ask you to sign a "Contributor License Agreement", or a
-similar document, when providing your contribution. It is important that you
-read it carefully. This document may be used to simply verify that you own the
-copyright over your change and have the right to contribute it. However, many of
-these agreements may also ask you to waive some of your rights, for example to
-permit the publisher to incorporate your changes into non-free versions of the
-software.
+برخی پروژه‌ها ممکن است از شما بخواهند که هنگام ارائه مشارکت، یک «موافقت‌نامه مجوز مشارکت‌کننده» یا سندی مشابه را امضا کنید. مهم است که این سند را با دقت بخوانید. این سند ممکن است صرفاً برای تأیید این باشد که شما مالک کپی‌رایت تغییرات خود هستید و حق ارائه آن را دارید. با این حال، بسیاری از این موافقت‌نامه‌ها ممکن است از شما بخواهند برخی از حقوق خود را واگذار کنید، برای مثال اجازه دهند ناشر تغییرات شما را در نسخه‌های غیرآزاد نرم‌افزار بگنجاند.
 
-You are not obligated to waive your rights. Such agreements may be required for
-the original publisher to agree to incorporate your changes into their version
-of the software, and to distribute those changes on your behalf. However, you
-are always entitled to the right to distribute an improved version of the
-software yourself, independently of the original publisher.
+شما موظف به واگذاری حقوق خود نیستید. چنین موافقت‌نامه‌هایی ممکن است برای این لازم باشد که ناشر اصلی با گنجاندن تغییرات شما در نسخه خود از نرم‌افزار موافقت کند و آن تغییرات را از طرف شما توزیع کند. با این حال، شما همیشه حق دارید نسخه بهبودیافته نرم‌افزار را خودتان، مستقل از ناشر اصلی، توزیع کنید.
 
-Publishers of free software are strongly discouraged from using Contributor
-License Agreements to manage their community contributions. For more details,
-see [managing copyright ownership][1].
+به ناشران نرم‌افزار آزاد به شدت توصیه می‌شود که از موافقت‌نامه‌های مجوز مشارکت‌کننده برای مدیریت مشارکت‌های جامعه خود استفاده نکنند. برای جزئیات بیشتر، به [مدیریت مالکیت کپی‌رایت][1] مراجعه کنید.
 
 [1]: /learn/participate/copyright-ownership/

@@ -1,75 +1,51 @@
 ---
-title: Publishing free software
+title: انتشار نرم‌افزار آزاد
 weight: 2
 ---
 
-Got a great idea for a new free software project and itching to publish it?
-Wonderful! Here are the steps:
+ایده‌ای عالی برای یک پروژه نرم‌افزار آزاد جدید دارید و مشتاق انتشار آن هستید؟ فوق‌العاده است! مراحل کار به این ترتیب است:
 
-1. Write it!
-2. Choose a software license
-3. Publish your project
-4. Build a community (optional)
+1. آن را بنویسید!
+2. یک مجوز نرم‌افزاری انتخاب کنید
+3. پروژه خود را منتشر کنید
+4. یک جامعه بسازید (اختیاری)
 
-## Writing your software
+## نوشتن نرم‌افزار شما
 
-We can't help you much with this part, of course. However, one word of advice:
-**publish early**. Many new maintainers are hesitant to publish their code,
-worried that poor documentation, missing features, abundant bugs, or even just
-poor code -- it all needs to be fixed before it's ready for the world. Not so!
-Releasing early is a crucial step for getting rapid feedback and is essential to
-attracting others to help. Get your code out there as soon as possible.
+البته ما نمی‌توانیم در این بخش کمک زیادی به شما کنیم. اما یک توصیه: **زود منتشر کنید**. بسیاری از نگهدارندگان جدید تردید دارند که کد خود را منتشر کنند، نگران مستندات ضعیف، ویژگی‌های ناقص، وجود باگ‌های فراوان یا حتی کیفیت پایین کد هستند — فکر می‌کنند همه چیز باید قبل از آماده شدن برای جهان اصلاح شود. این‌طور نیست! انتشار زودهنگام گامی حیاتی برای دریافت بازخورد سریع و ضروری برای جذب دیگران برای کمک است. کد خود را هرچه زودتر منتشر کنید.
 
-## Choosing a license
+## انتخاب مجوز
 
-Before you publish, however, you need to choose a free software license that
-suits your needs. You *can* write one yourself, but this is **strongly** advised
-against, even for big corporations that can hire a lawyer to help. There are
-plenty of licenses out there to suit every need, and we go over how to choose
-the right one for you in [choosing a license][0].
+با این حال، قبل از انتشار، باید یک مجوز نرم‌افزار آزاد انتخاب کنید که با نیازهای شما سازگار باشد. می‌توانید خودتان یک مجوز بنویسید، اما این کار حتی برای شرکت‌های بزرگی که می‌توانند وکیل استخدام کنند، **به شدت** توصیه نمی‌شود. مجوزهای زیادی وجود دارند که برای هر نیازی مناسب هستند و ما در [انتخاب مجوز][0] توضیح داده‌ایم که چگونه مجوز مناسب را برای خود انتخاب کنید.
 
 [0]: /learn/participate/choose-a-license/
 
-Choosing a license is **required** when publishing a free software project -- in
-the absence of a license your work is non-free. Your choice may also have
-significant long-term consequences for your project, so choose carefully. This
-is an important step.
+انتخاب مجوز هنگام انتشار یک پروژه نرم‌افزار آزاد **الزامی** است — بدون مجوز، کار شما غیرآزاد محسوب می‌شود. انتخاب شما همچنین ممکن است پیامدهای بلندمدت مهمی برای پروژه‌تان داشته باشد، بنابراین با دقت انتخاب کنید. این یک گام مهم است.
 
-## Publishing your project
+## انتشار پروژه شما
 
-When you're ready to publish your work, the easiest way is to upload it to a
-**software forge**. There are many to choose from, each offering numerous tools
-to make development and collaboration easier for you. Many of these software
-forges are themselves free software -- we recommend using these over the
-non-free alternatives. Here are a few suggestions to check out:
+وقتی آماده انتشار کار خود هستید، ساده‌ترین راه آپلود آن به یک **فورج نرم‌افزاری** است. گزینه‌های زیادی برای انتخاب وجود دارد که هر کدام ابزارهای متعددی برای آسان‌تر کردن توسعه و همکاری ارائه می‌دهند. بسیاری از این فورج‌های نرم‌افزاری خودشان نرم‌افزار آزاد هستند — ما توصیه می‌کنیم از این‌ها به جای گزینه‌های غیرآزاد استفاده کنید. در اینجا چند پیشنهاد برای بررسی آورده شده است:
 
-- [Codeberg](https://codeberg.org)
-- [SourceHut](https://sourcehut.org)
+- [کودبرگ](https://codeberg.org)
+- [سورس‌هات](https://sourcehut.org)
 
-You can also host your project on your own infrastructure. Something as simple
-as a tarball on a web server will do, but you can also run an entire software
-forge in your own datacenter if that's better for your project.
+همچنین می‌توانید پروژه خود را روی زیرساخت خودتان میزبانی کنید. چیزی به سادگی یک فایل tarball روی یک وب‌سرور کافی است، اما اگر برای پروژه‌تان بهتر است، می‌توانید یک فورج نرم‌افزاری کامل را در دیتاسنتر خودتان اجرا کنید.
 
 <!--
 
-Feel free to add forges here. Criteria for inclusion:
+می‌توانید فورج‌ها را اینجا اضافه کنید. معیارهای گنجاندن:
 
-- Reasonably feature complete and useful for hosting projects with minimal fuss
-- Hosted on stable infrastructure (self-hosted forges will not be considered)
-- Trustworthy and transparent maintainership
-- Free software, of course
+- کاملاً مجهز و مفید برای میزبانی پروژه‌ها با حداقل دردسر
+- میزبانی روی زیرساخت پایدار (فورج‌های خودمیزبان در نظر گرفته نمی‌شوند)
+- مدیریت قابل اعتماد و شفاف
+- البته نرم‌افزار آزاد
 
-Add new hosts in alphabetical order.
+میزبان‌های جدید را به ترتیب الفبا اضافه کنید.
 
 -->
 
-## Building a community
+## ساخت یک جامعه
 
-One of the chief advantages of publishing free software is that your community
-can get involved to help make it better than you can do alone. Managing your
-community is important to make sure that your software is the best it can be.
-[We publish articles][blog] on a variety of subjects of interest to free
-software participants, including advice on community building and management.
-Check it out!
+یکی از مزایای اصلی انتشار نرم‌افزار آزاد این است که جامعه شما می‌تواند برای بهتر کردن آن مشارکت کند، چیزی که به تنهایی نمی‌توانید به آن دست یابید. مدیریت جامعه‌تان برای اطمینان از اینکه نرم‌افزار شما بهترین حالت ممکن را دارد، مهم است. [ما مقالاتی منتشر می‌کنیم][blog] درباره موضوعات مختلف مورد علاقه مشارکت‌کنندگان در نرم‌افزار آزاد، از جمله توصیه‌هایی در مورد ساخت و مدیریت جامعه. آن را بررسی کنید!
 
 [blog]: /blog/

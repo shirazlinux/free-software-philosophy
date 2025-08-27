@@ -1,68 +1,47 @@
 ---
-title: About Free Software
+title: درباره نرم‌افزار آزاد
 weight: 1
 ---
 
-> "Free software" is software developed & published according to principles
-> which respect the essential rights and freedoms of its users and authors
-> &mdash; the freedom to **use**, **study**, **improve**, and **share** the
-> software. <wbr/>The **Free&nbsp;Software&nbsp;movement** is a global community
-> of software developers and users who collaborate to build software according
-> to these principles.
+> "نرم‌افزار آزاد"، نرم‌افزاری است که بر اساس اصولی توسعه و منتشر شده باشد که حقوق و آزادی‌های اساسی کاربران و نویسندگان آن را محترم می‌شمارد — یعنی آزادی **استفاده**، **مطالعه**، **بهبود** و **اشتراک‌گذاری** نرم‌افزار. <wbr/> **جنبشِ نرم‌افزارِ آزاد** جامعه‌ای جهانی از توسعه‌دهندگان و کاربران نرم‌افزار است که مطابق با این اصول برای ساخت نرم‌افزار همکاری می‌کنند.
 
-Any software is considered free software so long as it upholds the *four
-essential freedoms*:
+هر نرم‌افزاری، تا زمانی که *چهار آزادی اساسی* زیر را رعایت کند، نرم‌افزار آزاد محسوب می‌شود:
 
 <ol start="0">
   <li>
-    The freedom to <strong>use</strong> the software for any purpose.
+    آزادی <strong>استفاده</strong> از نرم‌افزار برای هر منظوری.
   </li>
   <li>
-    The freedom to <strong>study</strong> and <strong>improve</strong> the
-    software.
+    آزادی <strong>مطالعه</strong> و <strong>بهبود</strong> نرم‌افزار.
   </li>
   <li>
-    The freedom to <strong>share</strong> the software.
+    آزادی <strong>اشتراک‌گذاری</strong> نرم‌افزار.
   </li>
   <li>
-    The freedom to <strong>collaborate</strong> on the software.
+    آزادی <strong>همکاری</strong> روی نرم‌افزار.
   </li>
 </ol>
 
-Software which upholds these freedoms is **free software**. Software which does
-not is **non-free**.
+نرم‌افزاری که این آزادی‌ها را رعایت کند، **نرم‌افزار آزاد** است. نرم‌افزاری که این آزادی‌ها را رعایت نکند، **غیرآزاد** است.
 
-{{< button "/learn/four-freedoms" "Next: The four freedoms" "next-button" >}}
+{{< button "/learn/four-freedoms" "بعدی: چهار آزادی" "next-button" >}}
 
-## What is "open source" software?
+## نرم‌افزار «متن‌باز» چیست؟
 
-**Open Source** is a movement similar to the Free Software movement. The
-movements differ mainly in their target audience: open source is more commercial
-in its focus, and free software is more about the users. Nevertheless, the two
-movements are closely related and often work together. Each movement provides a
-different view of software freedom, but in practice nearly all software which is
-considered free software is also considered open source and vice-versa. The Open
-Source definition and the four freedoms are almost completely compatible with
-one another.
+**متن‌باز (Open Source)** جنبشی مشابه جنبش نرم‌افزار آزاد است. تفاوت اصلی این دو جنبش در مخاطب هدف آن‌هاست: تمرکز متن‌باز بیشتر تجاری است، و نرم‌افزار آزاد بیشتر درباره کاربران است. با این حال، این دو جنبش به هم closely related هستند و اغلب با هم کار می‌کنند. هر جنبش نگاه متفاوتی به آزادی نرم‌افزار ارائه می‌دهد، اما در عمل تقریباً تمام نرم‌افزارهایی که نرم‌افزار آزاد محسوب می‌شوند، متن‌باز نیز هستند و بالعکس. تعریف متن‌باز و چهار آزادی تقریباً کاملاً با یکدیگر سازگار هستند.
 
-The two movements as a whole are often referred to as "free and open source
-software", or "FOSS".
+این دو جنبش در کل اغلب با عنوان "نرم‌افزار آزاد و متن‌باز" یا "FOSS" (مخفف Free and Open Source Software) شناخته می‌شوند.
 
 {{< tip >}}
-Generally speaking, all open source software is free software, and vice versa.
+به طور کلی، تمام نرم‌افزارهای متن‌باز، نرم‌افزار آزاد هستند و بالعکس.
 {{< /tip >}}
 
-You can learn more about Open Source at
-[opensource.org](https://opensource.org/).
+می‌توانید اطلاعات بیشتری درباره متن‌باز در [opensource.org](https://opensource.org/) بیاموزید.
 
-## What is "source available" software?
+## نرم‌افزار «در دسترسِ منبع» چیست؟
 
-"Source available" software refers to any software for which the source code is
-available, which may or may not uphold the four freedoms. It might limit
-commercial use, restrict redistribution, prevent the user from modifying the
-software, and so on. All free and open source software is source available, but
-not all source available software is free software.
+نرم‌افزار «در دسترسِ منبع (Source available)» به هر نرم‌افزاری اشاره دارد که کد منبع آن در دسترس است، اما ممکن است چهار آزادی را رعایت کند یا نکند. این نوع نرم‌افزار ممکن است استفاده تجاری را محدود کند، توزیع مجدد را محدود کند، کاربر را از تغییر نرم‌افزار منع کند و غیره. تمام نرم‌افزارهای آزاد و متن‌باز، «در دسترسِ منبع» هستند، اما برعکس آن صادق نیست؛ یعنی همه نرم‌افزارهای «در دسترسِ منبع»، نرم‌افزار آزاد نیستند.
 
 {{< tip "warning" >}}
-"Source available" software is often non-free.
+نرم‌افزار «در دسترسِ منبع» اغلب غیرآزاد است.
 {{< /tip >}}
