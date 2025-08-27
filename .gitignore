@@ -4,3 +4,4 @@ public
 push.sh
 .deploy_counnter
 build.sh
+.DS_Store
