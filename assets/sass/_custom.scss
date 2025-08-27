@@ -23,6 +23,15 @@ div {
 	top: 2rem;
 }
 
+.tip {
+	border-left: 0 !important;
+	border-right: 0.2rem solid var(--theme);
+	&::before {
+		left: auto;
+		right: -0.85rem;
+	}
+}
+
 .nav_brand picture, .nav_brand img {
 	max-width: 15rem;
 
@@ -45,12 +54,28 @@ a {
 	}
 }
 
+.toc {
+	border-left: 0;
+	border-right: 2px solid var(--theme);
+
+}
+
 a.button, nav a, aside a, .page-section article a {
 	text-decoration: none;
 }
 
 b, strong {
 	font-weight: 700;
+}
+
+blockquote::before {
+	left: auto;
+	right: 0 !important;
+}
+
+.content ol {
+  padding-left: none !important;
+  padding-right: 1.3rem !important;
 }
 
 blockquote p {
@@ -86,11 +111,12 @@ ol li::marker {
 	&::after {
 		background-image: var(--next-icon);
 		content: "";
-		margin-left: 0.67rem;
+		margin-right: 0.67rem;
 		height: 0.8rem;
 		width: 0.8rem;
 		background-size: 100%;
 		background-repeat: no-repeat;
+		rotate: 180deg;
 		transform-origin: 50% 50%;
 	}
 
