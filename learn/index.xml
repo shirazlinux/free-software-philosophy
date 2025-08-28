@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>درباره نرم‌افزار آزاد on شیراز لینوکس</title>
+    <link>https://free.sudoshz.ir/learn/</link>
+    <description>Recent content in درباره نرم‌افزار آزاد on شیراز لینوکس</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-IR</language><atom:link href="https://free.sudoshz.ir/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>چهار آزادی</title>
+      <link>https://free.sudoshz.ir/learn/four-freedoms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://free.sudoshz.ir/learn/four-freedoms/</guid>
+      <description>آزادی استفاده از نرم‌افزار برای هر هدفی.   آزادی مطالعه و بهبود نرم‌افزار.   آزادی اشتراک‌گذاری نرم‌افزار.   آزادی همکاری در توسعه نرم‌افزار.    بیایید هر یک از این چهار آزادی را با جزئیات بیشتری بررسی کنیم.
+۰: استفاده از نرم‌افزار آزادی «صفرم» حق همه را برای استفاده از نرم‌افزار برای هر هدفی تضمین می‌کند. شما مجازید از هر نرم‌افزار آزادی برای هر هدفی، از جمله استفاده تجاری، استفاده کنید — شاید به نظر غیرمنطقی بیاید، اما می‌توانید نرم‌افزار آزاد را بفروشید.</description>
+    </item>
+    
+    <item>
+      <title>مجوزهای نرم‌افزار آزاد</title>
+      <link>https://free.sudoshz.ir/learn/licenses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://free.sudoshz.ir/learn/licenses/</guid>
+      <description>چهار آزادی معمولاً از طریق استفاده از یک مجوز نرم‌افزار آزاد تضمین می‌شوند. انواع مختلفی از مجوزها با مزایا و معایب متفاوت وجود دارند که با موقعیت منحصربه‌فرد هر پروژه نرم‌افزاری سازگار هستند.
+نحوه کار مجوز نرم‌افزار آزاد یک مجوز نرم‌افزار آزاد حقوق لازم را، شاید با برخی شرایط (مانند ذکر منبع)، اعطا می‌کند تا چهار آزادی برای دریافت‌کنندگان نرم‌افزار برقرار شود. هر مجوز نرم‌افزاری می‌تواند یک مجوز نرم‌افزار آزاد باشد اگر چهار آزادی را رعایت کند، اما در عمل، اکثر پروژه‌ها یکی از مجوزهای عمومی و شناخته‌شده را برای استفاده انتخاب می‌کنند.</description>
+    </item>
+    
+    <item>
+      <title>کپی‌لفت چیست؟</title>
+      <link>https://free.sudoshz.ir/learn/copyleft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://free.sudoshz.ir/learn/copyleft/</guid>
+      <description>کپی‌لفت یک ابزار صدور مجوز است که به طور خاص برای نرم‌افزارهای آزاد طراحی شده است. این ابزار به منظور ترویج گسترش نرم‌افزارهای آزاد و محافظت از آن‌ها در برابر استفاده در آثار غیرآزاد ایجاد شده است. کپی‌لفت این کار را با اعطای حق اشتراک‌گذاری بهبودهای شما و همچنین تعهد به اشتراک‌گذاری این بهبودها تحت شرایط مشابه هنگام توزیع نرم‌افزار انجام می‌دهد. درک این تعهدات هنگام استفاده مجدد از نرم‌افزارهای کپی‌لفت در پروژه‌های خود بسیار مهم است.</description>
+    </item>
+    
+  </channel>
+</rss>
